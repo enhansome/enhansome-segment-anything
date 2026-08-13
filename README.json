@@ -1,0 +1,192 @@
+{
+  "items": [
+    {
+      "description": "This repository has been featured on Shypd.Ai, the largest open index of AI tools worldwide (over 80,000 tools). It is categorized under Academic Research, an emerging section that currently hosts fewer than 1,800 high-quality AI resources.",
+      "items": [],
+      "title": "🏅Recognition"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Papers/Projects"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Basemodel Papers"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Derivative Papers"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Analysis and Expansion of SAM"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Medical Image Segmentation"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Bioimage Analysis"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Inpainting"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Camouflaged Object Detection"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Video Frame Interpolation"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Low Level Vision"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Image Matting"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Robotic"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Bioinformatics"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "3D"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Remote Sensing"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Tracking"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Audio-visual Localization and Segmentation"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Adversarial Attacks"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Multimedia Forensics"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "LLM and SAM"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Autonomous Driving"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Derivative Projects"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Image Segmentation task"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Video Segmentation task"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Medical image Segmentation task"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Inpainting task"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "3D task"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Image Generation task"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Remote Sensing task"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Moving Object Detection task"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "OCR task"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "front-end framework"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "SAMJS"
+    },
+    {
+      "description": "Some of the presentations in this repository are borrowed from the original author, and we are very thankful for their contribution.",
+      "items": [],
+      "title": "Acknowledgement"
+    },
+    {
+      "description": "This project is released under the MIT license. Please see the LICENSE file for more information.",
+      "items": [],
+      "title": "License"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:33:48.967Z",
+    "original_repository": "Hedlen/awesome-segment-anything",
+    "original_repository_sha": "905eaabfb4dc716eff9c8d9945bf56e99ed0ed29",
+    "enhanced_repository": "enhansome/enhansome-segment-anything",
+    "enhanced_repository_description": null,
+    "title": "Awesome Segment Anything with stars"
+  }
+}
