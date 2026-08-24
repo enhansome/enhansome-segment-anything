@@ -92,7 +92,7 @@
                 "last_commit": "2024-09-18T17:46:55Z",
                 "owner": "facebookresearch",
                 "repo": "segment-anything",
-                "stars": 54754
+                "stars": 54756
               }
             },
             {
@@ -137,7 +137,7 @@
                 "last_commit": "2026-05-30T02:29:40Z",
                 "owner": "facebookresearch",
                 "repo": "sam2",
-                "stars": 19749
+                "stars": 19750
               }
             }
           ],
@@ -408,7 +408,7 @@
                     "last_commit": "2025-05-07T13:36:16Z",
                     "owner": "bowang-lab",
                     "repo": "MedSAM",
-                    "stars": 4377
+                    "stars": 4378
                   }
                 },
                 {
@@ -517,7 +517,7 @@
                     "archived": false,
                     "id": 635751761,
                     "language": "Jupyter Notebook",
-                    "last_commit": "2026-08-23T23:54:46Z",
+                    "last_commit": "2026-08-24T17:16:33Z",
                     "owner": "computational-cell-analytics",
                     "repo": "micro-sam",
                     "stars": 713
@@ -1015,7 +1015,7 @@
                     "last_commit": "2024-09-05T06:07:32Z",
                     "owner": "IDEA-Research",
                     "repo": "Grounded-Segment-Anything",
-                    "stars": 17709
+                    "stars": 17708
                   }
                 },
                 {
@@ -1636,7 +1636,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:09:05.650Z",
+    "last_updated": "2026-08-24T17:17:13.681Z",
     "original_repository": "Hedlen/awesome-segment-anything",
     "original_repository_id": 626723712,
     "original_repository_sha": "905eaabfb4dc716eff9c8d9945bf56e99ed0ed29",
