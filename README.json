@@ -1,7 +1,1642 @@
 {
-  "items": [],
+  "items": [
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "CLIP",
+              "description": "arXiv Colab Code OpenAI Contrastive Language-Image Pre-Training.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 321960447,
+                "language": "Jupyter Notebook",
+                "last_commit": "2026-03-25T18:46:40Z",
+                "owner": "openai",
+                "repo": "CLIP",
+                "stars": 34218
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "OWL-ViT",
+              "description": "ECCV2022 - Code Google A open-vocabulary object detector.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 385275507,
+                "language": "Python",
+                "last_commit": "2026-08-10T09:53:31Z",
+                "owner": "google-research",
+                "repo": "scenic",
+                "stars": 3821
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "OvSeg",
+              "description": "CVPR2023 Project Code META Segment an image into semantic regions according to text descriptions.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 560717911,
+                "language": "Jupyter Notebook",
+                "last_commit": "2023-10-17T03:32:27Z",
+                "owner": "facebookresearch",
+                "repo": "ov-seg",
+                "stars": 758
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Painter",
+              "description": "CVPR2023 - Code BAAI A Generalist Painter for In-Context Visual Learning.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 574615385,
+                "language": "Python",
+                "last_commit": "2024-12-06T02:39:02Z",
+                "owner": "baaivision",
+                "repo": "Painter",
+                "stars": 2593
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Grounding DINO",
+              "description": "arXiv Colab &Huggingface Code IDEA A stronger open-set object detector",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 611591640,
+                "language": "Python",
+                "last_commit": "2024-08-12T08:52:02Z",
+                "owner": "IDEA-Research",
+                "repo": "GroundingDINO",
+                "stars": 10514
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Segment Anything",
+              "description": "arXiv Project page Code Meta A stronger Large model which can be used to generate masks for all objects in an image.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 618058471,
+                "language": "Jupyter Notebook",
+                "last_commit": "2024-09-18T17:46:55Z",
+                "owner": "facebookresearch",
+                "repo": "segment-anything",
+                "stars": 54754
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "SegGPT",
+              "description": "arXiv Project page Code BAAI Segmenting Everything In Context based on Painter.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 574615385,
+                "language": "Python",
+                "last_commit": "2024-12-06T02:39:02Z",
+                "owner": "baaivision",
+                "repo": "Painter",
+                "stars": 2593
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Segment Everything Everywhere All at Once (SEEM)",
+              "description": "arXiv Project Page Code Microsoft Semantic Segmentation with various prompt types.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 626753204,
+                "language": "Python",
+                "last_commit": "2024-08-19T08:01:54Z",
+                "owner": "UX-Decoder",
+                "repo": "Segment-Everything-Everywhere-All-At-Once",
+                "stars": 4795
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Segment Anything 2 (SAM 2)",
+              "description": "Paper Project Page Code Meta A foundation model towards solving promptable visual segmentation in images and videos.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 835452752,
+                "language": "Jupyter Notebook",
+                "last_commit": "2026-05-30T02:29:40Z",
+                "owner": "facebookresearch",
+                "repo": "sam2",
+                "stars": 19749
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Basemodel Papers"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Demo",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 626501079,
+                    "language": "Jupyter Notebook",
+                    "last_commit": "2025-03-01T08:40:56Z",
+                    "owner": "xmed-lab",
+                    "repo": "CLIP_Surgery",
+                    "stars": 482
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Code",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 626501079,
+                    "language": "Jupyter Notebook",
+                    "last_commit": "2025-03-01T08:40:56Z",
+                    "owner": "xmed-lab",
+                    "repo": "CLIP_Surgery",
+                    "stars": 482
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "GenSAM",
+                  "description": "arXiv Project Page Code QMUL This work relaxes the requirement for instance-specific prompts in SAM.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 729508359,
+                    "language": "Jupyter Notebook",
+                    "last_commit": "2025-03-04T16:21:23Z",
+                    "owner": "jyLin8100",
+                    "repo": "GenSAM",
+                    "stars": 162
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "PerSAM",
+                  "description": "arXiv Project Page Code - Segment Anything with specific concepts.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 636385053,
+                    "language": "Python",
+                    "last_commit": "2024-07-22T15:13:43Z",
+                    "owner": "ZrrSkywalker",
+                    "repo": "Personalize-SAM",
+                    "stars": 1671
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Matcher: Segment Anything with One Shot Using All-Purpose Feature Matching",
+                  "description": "arXiv - Code - One shot semantic segmentation by integrating an all-purpose feature extraction model and a class-agnostic segmentation model.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 643103052,
+                    "language": "Python",
+                    "last_commit": "2025-12-03T05:31:11Z",
+                    "owner": "aim-uofa",
+                    "repo": "Matcher",
+                    "stars": 577
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Segment Anything in High Quality",
+                  "description": "NeurIPS2023 Project Page Code ETH Zürich & HKUST HQ-SAM: improve segmentation quality of SAM using learnable High-Quality Output Token.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 648003298,
+                    "language": "Jupyter Notebook",
+                    "last_commit": "2025-09-12T00:00:27Z",
+                    "owner": "SysCV",
+                    "repo": "sam-hq",
+                    "stars": 4255
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Detect Any Shadow: Segment Anything for Video Shadow Detection",
+                  "description": "arXiv - Code University of Science and Technology of China Use SAM to detect initial frames then use an LSTM network for subsequent frames.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 645670498,
+                    "language": "Python",
+                    "last_commit": "2024-11-28T07:10:21Z",
+                    "owner": "harrytea",
+                    "repo": "Detect-AnyShadow",
+                    "stars": 69
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Fast Segment Anything",
+                  "description": "arXiv Project Page Code - Reformulate the architecture and improve the speed of SAM.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 656455590,
+                    "language": "Python",
+                    "last_commit": "2024-07-30T13:35:06Z",
+                    "owner": "CASIA-LMC-Lab",
+                    "repo": "FastSAM",
+                    "stars": 8398
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "MobileSAM (Faster Segment Anything)",
+                  "description": "arXiv Project Page Code Kyung Hee University Make SAM mobile-friendly by replacing the heavyweight image encoder with a lightweight one.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 658399706,
+                    "language": "Jupyter Notebook",
+                    "last_commit": "2026-05-05T11:00:13Z",
+                    "owner": "ChaoningZhang",
+                    "repo": "MobileSAM",
+                    "stars": 5856
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "FoodSAM (Any Food Segmentation)",
+                  "description": "arXiv Project Page Code UCAS Semantic, instance, panoptic, interactive segmentation on food image.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 676947926,
+                    "language": "Python",
+                    "last_commit": "2024-01-24T10:06:55Z",
+                    "owner": "jamesjg",
+                    "repo": "FoodSAM",
+                    "stars": 185
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "DefectSAM",
+                  "description": "arXiv - Code ZJU, Westlake, UESTC, etc. Infrared thermal images, defect detection.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 719764097,
+                    "language": "Jupyter Notebook",
+                    "last_commit": "2024-06-02T17:25:09Z",
+                    "owner": "bozhenhhu",
+                    "repo": "DefectSAM",
+                    "stars": 23
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "SlimSAM",
+                  "description": "arXiv - Code NUS 0.1% Data Makes Segment Anything Slim.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 721182288,
+                    "language": "Python",
+                    "last_commit": "2025-09-27T03:23:39Z",
+                    "owner": "czg1225",
+                    "repo": "SlimSAM",
+                    "stars": 362
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "EfficientSAM",
+                  "description": "CVPR2024 Project Page Code Meta Lightweight SAM models via masked image pretraining (SAMI), achieving competitive performance with greatly reduced complexity.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 724423300,
+                    "language": "Jupyter Notebook",
+                    "last_commit": "2024-12-24T08:36:39Z",
+                    "owner": "yformer",
+                    "repo": "EfficientSAM",
+                    "stars": 2491
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "EdgeSAM",
+                  "description": "arXiv Project Page Code MMLab@NTU Prompt-in-the-loop distillation for on-device SAM deployment; 40× faster than SAM, first to run >30 FPS on iPhone 14.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 728068800,
+                    "language": "Jupyter Notebook",
+                    "last_commit": "2025-05-24T07:54:29Z",
+                    "owner": "chongzhou96",
+                    "repo": "EdgeSAM",
+                    "stars": 1172
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Semantic-SAM",
+                  "description": "arXiv Project Page Code Microsoft Universal image segmentation model that segments and recognizes anything at any desired granularity.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 664755638,
+                    "language": "Python",
+                    "last_commit": "2025-07-10T08:06:44Z",
+                    "owner": "UX-Decoder",
+                    "repo": "Semantic-SAM",
+                    "stars": 2854
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "RankSEG",
+                  "description": "NeurIPS 2025 / JMLR 2023 Docs / Demo Code / Colab CUHK RankSEG is a plug-and-play post-processing module that improves segmentation results during inference. It works with segmentation models (SAM, DeepLab, SegFormer, UPerNet, etc.) without any retraining or fine-tuning.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 1037851667,
+                    "language": "Jupyter Notebook",
+                    "last_commit": "2026-07-17T13:10:32Z",
+                    "owner": "rankseg",
+                    "repo": "rankseg",
+                    "stars": 73
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Analysis and Expansion of SAM"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Segment Anything in Medical Images",
+                  "description": "arXiv - Code - A step-by-step tutorial with a small dataset to help you quickly utilize SAM.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 631367959,
+                    "language": "Jupyter Notebook",
+                    "last_commit": "2025-05-07T13:36:16Z",
+                    "owner": "bowang-lab",
+                    "repo": "MedSAM",
+                    "stars": 4377
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "SAM Fails to Segment Anything?",
+                  "description": "arXiv - Code - SAM-adapter: Adapting SAM in Underperformed Scenes: Camouflage, Shadow, Medical Image Segmentation, and More.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 628028132,
+                    "language": "Python",
+                    "last_commit": "2026-05-17T04:56:00Z",
+                    "owner": "tianrun-chen",
+                    "repo": "SAM-Adapter-PyTorch",
+                    "stars": 1550
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Medical-SAM-Adapter",
+                  "description": "arXiv - Code - A project to finetune SAM using Adaption for the Medical Imaging.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 632316603,
+                    "language": "Python",
+                    "last_commit": "2025-09-08T16:38:31Z",
+                    "owner": "ImprintLab",
+                    "repo": "Medical-SAM-Adapter",
+                    "stars": 1322
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "SAM-Med2D",
+                  "description": "arXiv - Code Sichuan University & Shanghai AI Laboratory The most comprehensive studies on applying SAM to medical 2D images.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 683290790,
+                    "language": "Jupyter Notebook",
+                    "last_commit": "2024-06-18T13:23:31Z",
+                    "owner": "OpenGVLab",
+                    "repo": "SAM-Med2D",
+                    "stars": 1133
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "ScribblePrompt-SAM",
+                  "description": "arXiv Project Page Code MIT & MGH Fine-tuned SAM on 65 biomedical imaging datasets with scribble, click, and bounding box inputs.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 725677743,
+                    "language": "Jupyter Notebook",
+                    "last_commit": "2025-07-13T23:04:23Z",
+                    "owner": "halleewong",
+                    "repo": "ScribblePrompt",
+                    "stars": 221
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "SaLIP",
+                  "description": "- arXiv - Code - Test-Time Adaptation with SaLIP: A Cascade of SAM and CLIP for Zero-shot Medical Image Segmentation.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 788487858,
+                    "language": "Python",
+                    "last_commit": "2024-04-18T14:16:14Z",
+                    "owner": "aleemsidra",
+                    "repo": "SaLIP",
+                    "stars": 54
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "SurgicalSAM",
+                  "description": "AAAI2024 - Code University of Adelaide Efficient class-promptable surgical instrument segmentation by fine-tuning SAM with surgical-specific information, eliminating the need for explicit point/box prompts.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 679269918,
+                    "language": "Python",
+                    "last_commit": "2026-06-03T15:05:00Z",
+                    "owner": "wenxi-yue",
+                    "repo": "SurgicalSAM",
+                    "stars": 132
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Medical Image Segmentation"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Segment Anything for Microscopy",
+                  "description": "bioRxiv Demo Code University of Göttingen, Germany Segment Anything for Microscopy implements automatic and interactive annotation for microscopy data. It is built on top of Segment Anything and specializes it for microscopy and other bio-imaging data. Its core components are: The tools for interactive data annotation with napari.The library to apply Segment Anything to 2d and 3d data or fine-tune it on your data.The models that are fine-tuned on publicly available microscopy data. Our goal is to build fast and interactive annotation tools for microscopy data.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 635751761,
+                    "language": "Jupyter Notebook",
+                    "last_commit": "2026-08-23T23:54:46Z",
+                    "owner": "computational-cell-analytics",
+                    "repo": "micro-sam",
+                    "stars": 713
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Bioimage Analysis"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Inpaint Anything",
+                  "description": "arXiv - Code USTC & EIT SAM + Inpainting, which is able to remove the object smoothly.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 625478728,
+                    "language": "Jupyter Notebook",
+                    "last_commit": "2026-08-22T04:47:40Z",
+                    "owner": "geekyutao",
+                    "repo": "Inpaint-Anything",
+                    "stars": 7699
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Inpainting"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "SAMCOD",
+                  "description": "- arXiv - Code - SAM + Camouflaged object detection (COD) task.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 625998928,
+                    "language": null,
+                    "last_commit": "2023-04-14T02:37:16Z",
+                    "owner": "luckybird1994",
+                    "repo": "SAMCOD",
+                    "stars": 35
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Camouflaged Object Detection"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Clearer Frames, Anytime: Resolving Velocity Ambiguity in Video Frame Interpolation",
+                  "description": "arXiv Project Page & Interactive Demo Code Shanghai AI Laboratory & Snap Inc. Editable video frame interpolation with SAM.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 710830571,
+                    "language": "Python",
+                    "last_commit": "2026-06-02T13:22:14Z",
+                    "owner": "zzh-tech",
+                    "repo": "InterpAny-Clearer",
+                    "stars": 295
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Video Frame Interpolation"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "SAM-IQA",
+                  "description": "arXiv - Code Megvii The first to introduce the SAM in IQA and demonstrate its strong generalization ability in this domain.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 660114496,
+                    "language": null,
+                    "last_commit": "2023-06-29T09:29:05Z",
+                    "owner": "Hedlen",
+                    "repo": "SAM-IQA",
+                    "stars": 24
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Low Level Vision"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Matte Anything",
+                  "description": "arXiv - Code HUST Vision Lab An interactive natural image matting system with excellent performance for both opaque and transparent objects.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 646113685,
+                    "language": "Python",
+                    "last_commit": "2024-06-06T07:54:39Z",
+                    "owner": "hustvl",
+                    "repo": "Matte-Anything",
+                    "stars": 590
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Matting Anything",
+                  "description": "arXiv Project page Code SHI Labs Leverage feature maps from SAM and adopts a Mask-to-Matte module to predict the alpha matte.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 651046889,
+                    "language": "Python",
+                    "last_commit": "2023-11-18T04:27:11Z",
+                    "owner": "SHI-Labs",
+                    "repo": "Matting-Anything",
+                    "stars": 717
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Image Matting"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Instruct2Act",
+                  "description": "arXiv - Code OpenGVLab A SAM application in the Robotic field.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 642260087,
+                    "language": "Python",
+                    "last_commit": "2024-06-23T07:39:41Z",
+                    "owner": "OpenGVLab",
+                    "repo": "Instruct2Act",
+                    "stars": 374
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Robotic"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "IAMSAM",
+                  "description": "bioRxiv - Code Portrai Inc. A SAM application for the analysis of Spatial Transcriptomics.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 645186445,
+                    "language": "Jupyter Notebook",
+                    "last_commit": "2025-06-24T01:56:04Z",
+                    "owner": "portrai-io",
+                    "repo": "IAMSAM",
+                    "stars": 22
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Bioinformatics"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Point-SAM",
+                  "description": "arXiv Page Code UCSD An open-world 3D native promptable point-cloud segmentation method.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 806780422,
+                    "language": "Python",
+                    "last_commit": "2025-10-05T01:38:55Z",
+                    "owner": "zyc00",
+                    "repo": "Point-SAM",
+                    "stars": 463
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "SAMPro3D",
+                  "description": "arXiv Page Code CUHKSZ, MSRA A novel method to segment any 3D indoor scenes by applying the SAM to 2D frames, without need any training, tuning, distillation or 3D pretrained networks.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 724188919,
+                    "language": "Python",
+                    "last_commit": "2025-04-17T02:50:17Z",
+                    "owner": "GAP-LAB-CUHK-SZ",
+                    "repo": "SAMPro3D",
+                    "stars": 171
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Seal",
+                  "description": "arXiv Page Code - A framework capable of leveraging 2D vision foundation models for self-supervised learning on large-scale 3D point clouds.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 645318405,
+                    "language": "Python",
+                    "last_commit": "2023-12-16T13:34:26Z",
+                    "owner": "youquanl",
+                    "repo": "Segment-Any-Point-Cloud",
+                    "stars": 636
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "TomoSAM",
+                  "description": "arXiv Video Tutorial Code - An extension of 3D Slicer using the SAM to aid the segmentation of 3D data from tomography or other imaging techniques.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 650802925,
+                    "language": "Python",
+                    "last_commit": "2025-07-11T02:40:57Z",
+                    "owner": "fedesemeraro",
+                    "repo": "SlicerTomoSAM",
+                    "stars": 69
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "SegmentAnythingin3D",
+                  "description": "arXiv Project Code - A novel framework to Segment Anything in 3D, named SA3D.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 631867864,
+                    "language": "Python",
+                    "last_commit": "2025-05-19T02:37:14Z",
+                    "owner": "Jumpat",
+                    "repo": "SegmentAnythingin3D",
+                    "stars": 1030
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "3D"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "RSPrompter",
+                  "description": "arXiv Project Page Code Beihang University An automated instance segmentation approach for remote sensing images based on the SAM.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 650418030,
+                    "language": "Python",
+                    "last_commit": "2024-06-29T04:35:33Z",
+                    "owner": "KyanChen",
+                    "repo": "RSPrompter",
+                    "stars": 664
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "SAM-CD",
+                  "description": "arXiv - Code PLA Information Engineering University A sample-efficient change detection framework that employs SAM as the visual encoder.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 684967082,
+                    "language": "Python",
+                    "last_commit": "2024-04-30T03:41:10Z",
+                    "owner": "DingLei14",
+                    "repo": "SAM-CD",
+                    "stars": 227
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "SAM-Road: Segment Anything Model for Road Network Graph Extraction",
+                  "description": "arXiv - Code Carnegie Mellon University A simple and fast method applying SAM for vectorized large-scale road network graph extraction. It reaches state-of-the-art accuracy while being 40 times faster.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 763335669,
+                    "language": "Python",
+                    "last_commit": "2024-08-10T18:36:56Z",
+                    "owner": "htcr",
+                    "repo": "sam_road",
+                    "stars": 292
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Remote Sensing"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Follow Anything",
+                  "description": "arXiv Page Code MIT, Harvard University An open-vocabulary and multimodal model to detect, track, and follow any objects in real-time.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 672995896,
+                    "language": "Jupyter Notebook",
+                    "last_commit": "2023-12-05T19:40:53Z",
+                    "owner": "alaamaalouf",
+                    "repo": "FollowAnything",
+                    "stars": 402
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Video",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 626676185,
+                    "language": "Python",
+                    "last_commit": "2025-12-13T11:02:33Z",
+                    "owner": "gaomingqi",
+                    "repo": "Track-Anything",
+                    "stars": 6993
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Code",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 626676185,
+                    "language": "Python",
+                    "last_commit": "2025-12-13T11:02:33Z",
+                    "owner": "gaomingqi",
+                    "repo": "Track-Anything",
+                    "stars": 6993
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "SAM-Track",
+                  "description": "Video arXiv - Code Zhejiang University A framework called Segment And Track Anything (SAMTrack) that allows users to precisely and effectively segment and track any object in a video.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 628630832,
+                    "language": "Jupyter Notebook",
+                    "last_commit": "2026-07-03T21:59:37Z",
+                    "owner": "z-x-yang",
+                    "repo": "Segment-and-Track-Anything",
+                    "stars": 3134
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Tracking"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "AV-SAM",
+                  "description": "arXiv - Code CMU A simple yet effective audio-visual localization and segmentation framework based on the SAM.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 672995896,
+                    "language": "Jupyter Notebook",
+                    "last_commit": "2023-12-05T19:40:53Z",
+                    "owner": "alaamaalouf",
+                    "repo": "FollowAnything",
+                    "stars": 402
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Audio-visual Localization and Segmentation"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "SAFIRE: Segment Any Forged Image Region",
+                  "description": "arXiv - Code KAIST Extends SAM's point prompting capability to image forensics, enabling precise source-aware segmentation for forgery localization.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 901194531,
+                    "language": "Python",
+                    "last_commit": "2026-08-05T05:50:08Z",
+                    "owner": "mjkwon2021",
+                    "repo": "SAFIRE",
+                    "stars": 91
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Multimedia Forensics"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "LISA",
+                  "description": "CVPR2024 Project Page Code CUHK Large Language Instructed Segmentation Assistant: inherits LLM language generation while producing segmentation masks from complex implicit text queries.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 673431525,
+                    "language": "Python",
+                    "last_commit": "2025-02-16T13:33:08Z",
+                    "owner": "JIA-Lab-research",
+                    "repo": "LISA",
+                    "stars": 2672
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Sa2VA",
+                  "description": "arXiv Project Page Code - Marries SAM 2 with LLaVA for dense grounded understanding of images and videos; unifies text, image, and video into a shared LLM token space.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 912869501,
+                    "language": "Python",
+                    "last_commit": "2026-08-04T23:56:43Z",
+                    "owner": "bytedance",
+                    "repo": "Sa2VA",
+                    "stars": 1664
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "LLM and SAM"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Derivative Papers"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Colab",
+                  "description": "& Huggingface",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 625846264,
+                    "language": "Jupyter Notebook",
+                    "last_commit": "2023-12-25T20:28:21Z",
+                    "owner": "camenduru",
+                    "repo": "grounded-segment-anything-colab",
+                    "stars": 192
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Code",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 624249899,
+                    "language": "Jupyter Notebook",
+                    "last_commit": "2024-09-05T06:07:32Z",
+                    "owner": "IDEA-Research",
+                    "repo": "Grounded-Segment-Anything",
+                    "stars": 17709
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "GroundedSAM Anomaly Detection",
+                  "description": "- Code - Grounding DINO + SAM to segment any anomaly.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 625767114,
+                    "language": "Jupyter Notebook",
+                    "last_commit": "2025-02-22T04:57:10Z",
+                    "owner": "caoyunkang",
+                    "repo": "Segment-Any-Anomaly",
+                    "stars": 844
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Semantic Segment Anything",
+                  "description": "- Code Fudan A dense category annotation engine.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 625415628,
+                    "language": "Python",
+                    "last_commit": "2023-06-07T11:54:19Z",
+                    "owner": "fudan-zvg",
+                    "repo": "Semantic-Segment-Anything",
+                    "stars": 2301
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Magic Copy",
+                  "description": "- Code - Magic Copy is a Chrome extension that uses SAM.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 624716259,
+                    "language": "TypeScript",
+                    "last_commit": "2024-05-06T20:41:13Z",
+                    "owner": "kevmo314",
+                    "repo": "magic-copy",
+                    "stars": 2459
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "YOLO-World + EfficientViT SAM",
+                  "description": "🤗 HuggingFace Space Code - Efficient open-vocabulary object detection and segmentation with YOLO-World + EfficientViT SAM.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 757492237,
+                    "language": "Python",
+                    "last_commit": "2024-02-18T15:23:09Z",
+                    "owner": "Curt-Park",
+                    "repo": "yolo-world-with-efficientvit-sam",
+                    "stars": 111
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Segment Anything with Clip",
+                  "description": "🤗 HuggingFace Space Code - SAM + CLIP.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 624492945,
+                    "language": "Python",
+                    "last_commit": "2024-02-19T14:20:58Z",
+                    "owner": "Curt-Park",
+                    "repo": "segment-anything-with-clip",
+                    "stars": 350
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "SAM-Clip",
+                  "description": "- Code - SAM + CLIP.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 624168091,
+                    "language": "Jupyter Notebook",
+                    "last_commit": "2023-04-05T23:06:49Z",
+                    "owner": "maxi-w",
+                    "repo": "CLIP-SAM",
+                    "stars": 389
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Prompt Segment Anything",
+                  "description": "- Code - SAM + Zero-shot Instance Segmentation.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 625729642,
+                    "language": "Python",
+                    "last_commit": "2023-04-14T11:09:44Z",
+                    "owner": "RockeyCoss",
+                    "repo": "Prompt-Segment-Anything",
+                    "stars": 316
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "RefSAM",
+                  "description": "- - Code - Evaluating the basic performance of SAM on the Referring Image segmentation task.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 624244775,
+                    "language": "Python",
+                    "last_commit": "2023-04-07T16:42:26Z",
+                    "owner": "helblazer811",
+                    "repo": "RefSAM",
+                    "stars": 39
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "SAM-RBox",
+                  "description": "- Code - An implementation of SAM for generating rotated bounding boxes with MMRotate.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 625075880,
+                    "language": "Python",
+                    "last_commit": "2023-07-31T13:46:17Z",
+                    "owner": "VisionXLab",
+                    "repo": "sam-mmrotate",
+                    "stars": 199
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "SegDrawer",
+                  "description": "- Code - Simple static web-based mask drawer, supporting semantic drawing with SAM.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 625292175,
+                    "language": "Python",
+                    "last_commit": "2024-08-01T02:01:51Z",
+                    "owner": "lujiazho",
+                    "repo": "SegDrawer",
+                    "stars": 397
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "AnyLabeling",
+                  "description": "YoutubeDemo Code - SAM + Labelme + LabelImg + Auto-labeling.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 625321570,
+                    "language": "Python",
+                    "last_commit": "2026-08-09T05:52:06Z",
+                    "owner": "vietanhdev",
+                    "repo": "anylabeling",
+                    "stars": 3458
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "ISAT with segment anything",
+                  "description": "YoutubeDemo BiliBili Demo Code - Labeling tool by SAM, supports SAM, sam-hq, MobileSAM, EdgeSAM etc.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 629516625,
+                    "language": "Python",
+                    "last_commit": "2026-08-18T00:43:07Z",
+                    "owner": "yatengLG",
+                    "repo": "ISAT_with_segment_anything",
+                    "stars": 2166
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Annotation Anything Pipeline",
+                  "description": "- Code - GPT + SAM.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 625257418,
+                    "language": "Python",
+                    "last_commit": "2023-09-21T15:02:56Z",
+                    "owner": "Yuqifan1117",
+                    "repo": "Labal-Anything-Pipeline",
+                    "stars": 85
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "SALT",
+                  "description": "- Code - A tool that adds a basic interface for image labeling and saves the generated masks in COCO format.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 625060819,
+                    "language": "Python",
+                    "last_commit": "2024-02-19T16:49:54Z",
+                    "owner": "anuragxel",
+                    "repo": "salt",
+                    "stars": 1048
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "SAM U Specify",
+                  "description": "- Code - Use SAM and CLIP model to segment unique instances you want.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 625938966,
+                    "language": "Python",
+                    "last_commit": "2023-07-04T02:42:42Z",
+                    "owner": "MaybeShewill-CV",
+                    "repo": "segment-anything-u-specify",
+                    "stars": 182
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "SAM web UI",
+                  "description": "App Code - A web interface for the SAM.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 625550370,
+                    "language": "TypeScript",
+                    "last_commit": "2026-01-22T05:40:42Z",
+                    "owner": "Kingfish404",
+                    "repo": "segment-anything-webui",
+                    "stars": 273
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Finetune Anything",
+                  "description": "- Code - A class-aware one-stage tool for training fine-tuning models based on SAM.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 624334346,
+                    "language": "Python",
+                    "last_commit": "2023-08-05T13:33:13Z",
+                    "owner": "ziqi-jin",
+                    "repo": "finetune-anything",
+                    "stars": 867
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "NanoSAM",
+                  "description": "- Code NVIDIA A distilled Segment Anything (SAM) model capable of running real-time with NVIDIA TensorRT.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 688239237,
+                    "language": "Python",
+                    "last_commit": "2023-11-20T09:10:27Z",
+                    "owner": "NVIDIA-AI-IOT",
+                    "repo": "nanosam",
+                    "stars": 906
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Segment-Anything-UI",
+                  "description": "- Code - A PySide6 based annotation tool for Segment Anything.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 626474666,
+                    "language": "Python",
+                    "last_commit": "2026-06-03T11:59:43Z",
+                    "owner": "branislavhesko",
+                    "repo": "segment-anything-ui",
+                    "stars": 114
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Segment-Anything-2-UI",
+                  "description": "- Code - A PySide6 based annotation tool for Segment Anything 2. Video tracking with multiple objects.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 842196096,
+                    "language": "Python",
+                    "last_commit": "2025-02-22T21:16:02Z",
+                    "owner": "branislavhesko",
+                    "repo": "segment-anything-2-ui",
+                    "stars": 23
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Image Segmentation task"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "MetaSeg",
+                  "description": "HuggingFace Code - SAM + Video.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 624461258,
+                    "language": "Python",
+                    "last_commit": "2026-08-18T20:23:16Z",
+                    "owner": "kadirnar",
+                    "repo": "segment-anything-video",
+                    "stars": 983
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "SAM-Track",
+                  "description": "Video YoutubeDemo Code Zhejiang University This project, which is based on SAM and DeAOT, focuses on segmenting and tracking objects in videos.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 628630832,
+                    "language": "Jupyter Notebook",
+                    "last_commit": "2026-07-03T21:59:37Z",
+                    "owner": "z-x-yang",
+                    "repo": "Segment-and-Track-Anything",
+                    "stars": 3134
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Video Segmentation task"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "SAM in Napari",
+                  "description": "Video - Code - Segment anything with Napari integration of SAM.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 624387114,
+                    "language": "Python",
+                    "last_commit": "2024-03-04T15:41:39Z",
+                    "owner": "MIC-DKFZ",
+                    "repo": "napari-sam",
+                    "stars": 249
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "SAM Medical Imaging",
+                  "description": "- Code - SAM for Medical Imaging.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 624966700,
+                    "language": "Jupyter Notebook",
+                    "last_commit": "2023-04-14T16:17:50Z",
+                    "owner": "amine0110",
+                    "repo": "SAM-Medical-Imaging",
+                    "stars": 119
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Medical image Segmentation task"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "3D-Box",
+                  "description": "- Code - SAM is extended to 3D perception by combining it with VoxelNeXt.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 627807779,
+                    "language": "Jupyter Notebook",
+                    "last_commit": "2023-04-18T02:39:02Z",
+                    "owner": "JIA-Lab-research",
+                    "repo": "3D-Box-Segment-Anything",
+                    "stars": 564
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Code",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 627352072,
+                    "language": "Python",
+                    "last_commit": "2023-06-12T09:40:03Z",
+                    "owner": "Anything-of-anything",
+                    "repo": "Anything-3D",
+                    "stars": 1633
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "SAM + Zero 1-to-3",
+                  "description": ".",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 615532857,
+                    "language": "Python",
+                    "last_commit": "2023-12-05T09:55:45Z",
+                    "owner": "cvlab-columbia",
+                    "repo": "zero123",
+                    "stars": 3058
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Any 3D Face",
+                  "description": "- Code - SAM + HRN.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 627352072,
+                    "language": "Python",
+                    "last_commit": "2023-06-12T09:40:03Z",
+                    "owner": "Anything-of-anything",
+                    "repo": "Anything-3D",
+                    "stars": 1633
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Segment Anything 3D",
+                  "description": "- Code Pointcept Extending Segment Anything to 3D perception by transferring the segmentation information of 2D images to 3D space.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 628918235,
+                    "language": "Python",
+                    "last_commit": "2024-04-21T14:57:50Z",
+                    "owner": "Pointcept",
+                    "repo": "SegmentAnything3D",
+                    "stars": 1384
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "3D task"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Edit Anything",
+                  "description": "- Code - Edit and Generate Anything in an image.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 625483393,
+                    "language": "Python",
+                    "last_commit": "2025-02-23T04:58:34Z",
+                    "owner": "sail-sg",
+                    "repo": "EditAnything",
+                    "stars": 3422
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Image Edit Anything",
+                  "description": "- Code - Stable Diffusion + SAM.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 624755349,
+                    "language": "Python",
+                    "last_commit": "2023-04-11T10:24:26Z",
+                    "owner": "feizc",
+                    "repo": "IEA",
+                    "stars": 114
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "SAM for Stable Diffusion Webui",
+                  "description": "- Code - Stable Diffusion + SAM.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 625961301,
+                    "language": "Python",
+                    "last_commit": "2024-04-30T08:24:46Z",
+                    "owner": "continue-revolution",
+                    "repo": "sd-webui-segment-anything",
+                    "stars": 3499
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Image Generation task"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Earth Observation Tools",
+                  "description": "Colab Code - SAM + Remote Sensing.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 625358519,
+                    "language": "Jupyter Notebook",
+                    "last_commit": "2025-02-05T18:01:12Z",
+                    "owner": "aliaksandr960",
+                    "repo": "segment-anything-eo",
+                    "stars": 446
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Remote Sensing task"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Moving Object Detection",
+                  "description": "- Code - SAM + Moving Object Detection.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 199077972,
+                    "language": "Python",
+                    "last_commit": "2019-12-22T20:24:03Z",
+                    "owner": "achalddave",
+                    "repo": "segment-any-moving",
+                    "stars": 108
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Moving Object Detection task"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "OCR-SAM",
+                  "description": "Blog Code - Optical Character Recognition with SAM.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 625402032,
+                    "language": "Python",
+                    "last_commit": "2024-01-30T03:59:45Z",
+                    "owner": "yeungchenwa",
+                    "repo": "OCR-SAM",
+                    "stars": 590
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "OCR task"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Derivative Projects"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "SAMJS",
+                  "description": "demo Code - JS SDK for SAM, Support remote sensing data segmentation and vectorization.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 640725701,
+                    "language": "TypeScript",
+                    "last_commit": "2024-05-15T05:54:35Z",
+                    "owner": "antvis",
+                    "repo": "SAMJS",
+                    "stars": 111
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "SAMJS"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "front-end framework"
+        }
+      ],
+      "title": "Papers/Projects"
+    }
+  ],
   "metadata": {
-    "last_updated": "2026-08-23T17:03:34.875Z",
+    "last_updated": "2026-08-24T14:09:05.650Z",
     "original_repository": "Hedlen/awesome-segment-anything",
     "original_repository_id": 626723712,
     "original_repository_sha": "905eaabfb4dc716eff9c8d9945bf56e99ed0ed29",
