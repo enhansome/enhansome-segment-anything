@@ -17,7 +17,7 @@
                 "last_commit": "2026-03-25T18:46:40Z",
                 "owner": "openai",
                 "repo": "CLIP",
-                "stars": 34218
+                "stars": 34221
               }
             },
             {
@@ -92,7 +92,7 @@
                 "last_commit": "2024-09-18T17:46:55Z",
                 "owner": "facebookresearch",
                 "repo": "segment-anything",
-                "stars": 54756
+                "stars": 54754
               }
             },
             {
@@ -137,7 +137,7 @@
                 "last_commit": "2026-05-30T02:29:40Z",
                 "owner": "facebookresearch",
                 "repo": "sam2",
-                "stars": 19750
+                "stars": 19754
               }
             }
           ],
@@ -151,7 +151,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "Demo",
+                  "title": "xmed-lab/CLIP_Surgery",
                   "description": null,
                   "children": [],
                   "repo_info": {
@@ -166,7 +166,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "Code",
+                  "title": "xmed-lab/CLIP_Surgery",
                   "description": null,
                   "children": [],
                   "repo_info": {
@@ -221,7 +221,7 @@
                     "last_commit": "2025-12-03T05:31:11Z",
                     "owner": "aim-uofa",
                     "repo": "Matcher",
-                    "stars": 577
+                    "stars": 578
                   }
                 },
                 {
@@ -266,7 +266,7 @@
                     "last_commit": "2024-07-30T13:35:06Z",
                     "owner": "CASIA-LMC-Lab",
                     "repo": "FastSAM",
-                    "stars": 8398
+                    "stars": 8399
                   }
                 },
                 {
@@ -281,7 +281,7 @@
                     "last_commit": "2026-05-05T11:00:13Z",
                     "owner": "ChaoningZhang",
                     "repo": "MobileSAM",
-                    "stars": 5856
+                    "stars": 5857
                   }
                 },
                 {
@@ -517,7 +517,7 @@
                     "archived": false,
                     "id": 635751761,
                     "language": "Jupyter Notebook",
-                    "last_commit": "2026-08-24T17:16:33Z",
+                    "last_commit": "2026-08-24T22:08:37Z",
                     "owner": "computational-cell-analytics",
                     "repo": "micro-sam",
                     "stars": 713
@@ -542,7 +542,7 @@
                     "last_commit": "2026-08-22T04:47:40Z",
                     "owner": "geekyutao",
                     "repo": "Inpaint-Anything",
-                    "stars": 7699
+                    "stars": 7700
                   }
                 }
               ],
@@ -865,7 +865,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "Code",
+                  "title": "gaomingqi/Track-Anything",
                   "description": null,
                   "children": [],
                   "repo_info": {
@@ -971,7 +971,7 @@
                     "last_commit": "2026-08-04T23:56:43Z",
                     "owner": "bytedance",
                     "repo": "Sa2VA",
-                    "stars": 1664
+                    "stars": 1665
                   }
                 }
               ],
@@ -1005,7 +1005,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "Code",
+                  "title": "IDEA-Research/Grounded-Segment-Anything",
                   "description": null,
                   "children": [],
                   "repo_info": {
@@ -1060,7 +1060,7 @@
                     "last_commit": "2024-05-06T20:41:13Z",
                     "owner": "kevmo314",
                     "repo": "magic-copy",
-                    "stars": 2459
+                    "stars": 2458
                   }
                 },
                 {
@@ -1334,7 +1334,7 @@
                     "archived": false,
                     "id": 624461258,
                     "language": "Python",
-                    "last_commit": "2026-08-18T20:23:16Z",
+                    "last_commit": "2026-08-24T20:59:00Z",
                     "owner": "kadirnar",
                     "repo": "segment-anything-video",
                     "stars": 983
@@ -1416,7 +1416,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "Code",
+                  "title": "Anything-of-anything/Anything-3D",
                   "description": null,
                   "children": [],
                   "repo_info": {
@@ -1636,7 +1636,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T17:17:13.681Z",
+    "last_updated": "2026-08-25T06:03:51.570Z",
     "original_repository": "Hedlen/awesome-segment-anything",
     "original_repository_id": 626723712,
     "original_repository_sha": "905eaabfb4dc716eff9c8d9945bf56e99ed0ed29",
