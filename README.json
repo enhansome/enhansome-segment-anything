@@ -17,7 +17,7 @@
                 "last_commit": "2026-03-25T18:46:40Z",
                 "owner": "openai",
                 "repo": "CLIP",
-                "stars": 34221
+                "stars": 34223
               }
             },
             {
@@ -77,7 +77,7 @@
                 "last_commit": "2024-08-12T08:52:02Z",
                 "owner": "IDEA-Research",
                 "repo": "GroundingDINO",
-                "stars": 10514
+                "stars": 10515
               }
             },
             {
@@ -137,7 +137,7 @@
                 "last_commit": "2026-05-30T02:29:40Z",
                 "owner": "facebookresearch",
                 "repo": "sam2",
-                "stars": 19754
+                "stars": 19760
               }
             }
           ],
@@ -266,7 +266,7 @@
                     "last_commit": "2024-07-30T13:35:06Z",
                     "owner": "CASIA-LMC-Lab",
                     "repo": "FastSAM",
-                    "stars": 8399
+                    "stars": 8400
                   }
                 },
                 {
@@ -356,7 +356,7 @@
                     "last_commit": "2025-05-24T07:54:29Z",
                     "owner": "chongzhou96",
                     "repo": "EdgeSAM",
-                    "stars": 1172
+                    "stars": 1173
                   }
                 },
                 {
@@ -386,7 +386,7 @@
                     "last_commit": "2026-07-17T13:10:32Z",
                     "owner": "rankseg",
                     "repo": "rankseg",
-                    "stars": 73
+                    "stars": 74
                   }
                 }
               ],
@@ -408,7 +408,7 @@
                     "last_commit": "2025-05-07T13:36:16Z",
                     "owner": "bowang-lab",
                     "repo": "MedSAM",
-                    "stars": 4378
+                    "stars": 4379
                   }
                 },
                 {
@@ -423,7 +423,7 @@
                     "last_commit": "2026-05-17T04:56:00Z",
                     "owner": "tianrun-chen",
                     "repo": "SAM-Adapter-PyTorch",
-                    "stars": 1550
+                    "stars": 1551
                   }
                 },
                 {
@@ -453,7 +453,7 @@
                     "last_commit": "2024-06-18T13:23:31Z",
                     "owner": "OpenGVLab",
                     "repo": "SAM-Med2D",
-                    "stars": 1133
+                    "stars": 1134
                   }
                 },
                 {
@@ -517,10 +517,10 @@
                     "archived": false,
                     "id": 635751761,
                     "language": "Jupyter Notebook",
-                    "last_commit": "2026-08-24T22:08:37Z",
+                    "last_commit": "2026-08-25T17:13:01Z",
                     "owner": "computational-cell-analytics",
                     "repo": "micro-sam",
-                    "stars": 713
+                    "stars": 714
                   }
                 }
               ],
@@ -542,7 +542,7 @@
                     "last_commit": "2026-08-22T04:47:40Z",
                     "owner": "geekyutao",
                     "repo": "Inpaint-Anything",
-                    "stars": 7700
+                    "stars": 7701
                   }
                 }
               ],
@@ -860,7 +860,7 @@
                     "last_commit": "2025-12-13T11:02:33Z",
                     "owner": "gaomingqi",
                     "repo": "Track-Anything",
-                    "stars": 6993
+                    "stars": 6994
                   }
                 },
                 {
@@ -875,7 +875,7 @@
                     "last_commit": "2025-12-13T11:02:33Z",
                     "owner": "gaomingqi",
                     "repo": "Track-Anything",
-                    "stars": 6993
+                    "stars": 6994
                   }
                 },
                 {
@@ -956,7 +956,7 @@
                     "last_commit": "2025-02-16T13:33:08Z",
                     "owner": "JIA-Lab-research",
                     "repo": "LISA",
-                    "stars": 2672
+                    "stars": 2673
                   }
                 },
                 {
@@ -1015,7 +1015,7 @@
                     "last_commit": "2024-09-05T06:07:32Z",
                     "owner": "IDEA-Research",
                     "repo": "Grounded-Segment-Anything",
-                    "stars": 17708
+                    "stars": 17707
                   }
                 },
                 {
@@ -1180,7 +1180,7 @@
                     "last_commit": "2026-08-09T05:52:06Z",
                     "owner": "vietanhdev",
                     "repo": "anylabeling",
-                    "stars": 3458
+                    "stars": 3460
                   }
                 },
                 {
@@ -1636,7 +1636,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:03:51.570Z",
+    "last_updated": "2026-08-25T17:16:46.787Z",
     "original_repository": "Hedlen/awesome-segment-anything",
     "original_repository_id": 626723712,
     "original_repository_sha": "905eaabfb4dc716eff9c8d9945bf56e99ed0ed29",
