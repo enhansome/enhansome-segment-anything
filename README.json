@@ -17,7 +17,7 @@
                 "last_commit": "2026-03-25T18:46:40Z",
                 "owner": "openai",
                 "repo": "CLIP",
-                "stars": 34239
+                "stars": 34240
               }
             },
             {
@@ -29,7 +29,7 @@
                 "archived": false,
                 "id": 385275507,
                 "language": "Python",
-                "last_commit": "2026-08-10T09:53:31Z",
+                "last_commit": "2026-08-27T21:35:59Z",
                 "owner": "google-research",
                 "repo": "scenic",
                 "stars": 3821
@@ -77,7 +77,7 @@
                 "last_commit": "2024-08-12T08:52:02Z",
                 "owner": "IDEA-Research",
                 "repo": "GroundingDINO",
-                "stars": 10518
+                "stars": 10519
               }
             },
             {
@@ -92,7 +92,7 @@
                 "last_commit": "2024-09-18T17:46:55Z",
                 "owner": "facebookresearch",
                 "repo": "segment-anything",
-                "stars": 54766
+                "stars": 54769
               }
             },
             {
@@ -137,7 +137,7 @@
                 "last_commit": "2026-05-30T02:29:40Z",
                 "owner": "facebookresearch",
                 "repo": "sam2",
-                "stars": 19770
+                "stars": 19775
               }
             }
           ],
@@ -281,7 +281,7 @@
                     "last_commit": "2026-05-05T11:00:13Z",
                     "owner": "ChaoningZhang",
                     "repo": "MobileSAM",
-                    "stars": 5859
+                    "stars": 5858
                   }
                 },
                 {
@@ -517,7 +517,7 @@
                     "archived": false,
                     "id": 635751761,
                     "language": "Jupyter Notebook",
-                    "last_commit": "2026-08-27T11:35:12Z",
+                    "last_commit": "2026-08-27T16:27:28Z",
                     "owner": "computational-cell-analytics",
                     "repo": "micro-sam",
                     "stars": 715
@@ -542,7 +542,7 @@
                     "last_commit": "2026-08-22T04:47:40Z",
                     "owner": "geekyutao",
                     "repo": "Inpaint-Anything",
-                    "stars": 7704
+                    "stars": 7705
                   }
                 }
               ],
@@ -1060,7 +1060,7 @@
                     "last_commit": "2024-05-06T20:41:13Z",
                     "owner": "kevmo314",
                     "repo": "magic-copy",
-                    "stars": 2458
+                    "stars": 2457
                   }
                 },
                 {
@@ -1180,7 +1180,7 @@
                     "last_commit": "2026-08-09T05:52:06Z",
                     "owner": "vietanhdev",
                     "repo": "anylabeling",
-                    "stars": 3463
+                    "stars": 3465
                   }
                 },
                 {
@@ -1636,7 +1636,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T12:02:22.041Z",
+    "last_updated": "2026-08-28T01:10:07.891Z",
     "original_repository_info": {
       "archived": false,
       "id": 626723712,
@@ -1644,7 +1644,7 @@
       "last_commit": "2026-04-26T03:57:08Z",
       "owner": "Hedlen",
       "repo": "awesome-segment-anything",
-      "stars": 1697
+      "stars": 1698
     },
     "original_repository_sha": "905eaabfb4dc716eff9c8d9945bf56e99ed0ed29",
     "enhanced_repository": "enhansome/enhansome-segment-anything",
