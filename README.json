@@ -21,7 +21,7 @@
                 "open_issues": 272,
                 "owner": "openai",
                 "repo": "CLIP",
-                "stars": 34252,
+                "stars": 34253,
                 "topics": [
                   "deep-learning",
                   "machine-learning"
@@ -41,7 +41,7 @@
                 "id": 385275507,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-01T15:11:00Z",
+                "last_commit": "2026-09-02T16:39:27Z",
                 "open_issues": 304,
                 "owner": "google-research",
                 "repo": "scenic",
@@ -124,7 +124,7 @@
                 "open_issues": 324,
                 "owner": "IDEA-Research",
                 "repo": "GroundingDINO",
-                "stars": 10530,
+                "stars": 10536,
                 "topics": [
                   "object-detection",
                   "open-world",
@@ -151,7 +151,7 @@
                 "open_issues": 594,
                 "owner": "facebookresearch",
                 "repo": "segment-anything",
-                "stars": 54781,
+                "stars": 54789,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:42:58.421Z"
@@ -222,7 +222,7 @@
                 "open_issues": 482,
                 "owner": "facebookresearch",
                 "repo": "sam2",
-                "stars": 19788,
+                "stars": 19793,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:42:58.421Z"
@@ -385,7 +385,7 @@
                     "open_issues": 110,
                     "owner": "SysCV",
                     "repo": "sam-hq",
-                    "stars": 4256,
+                    "stars": 4257,
                     "topics": [
                       "high-quality",
                       "sam",
@@ -455,7 +455,7 @@
                     "open_issues": 119,
                     "owner": "ChaoningZhang",
                     "repo": "MobileSAM",
-                    "stars": 5861,
+                    "stars": 5863,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:42:58.421Z"
@@ -544,7 +544,7 @@
                     "open_issues": 54,
                     "owner": "yformer",
                     "repo": "EfficientSAM",
-                    "stars": 2493,
+                    "stars": 2494,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:42:58.421Z"
@@ -659,7 +659,7 @@
                     "open_issues": 17,
                     "owner": "bowang-lab",
                     "repo": "MedSAM",
-                    "stars": 4380,
+                    "stars": 4384,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:42:58.421Z"
@@ -761,7 +761,7 @@
                     "open_issues": 10,
                     "owner": "halleewong",
                     "repo": "ScribblePrompt",
-                    "stars": 222,
+                    "stars": 223,
                     "topics": [
                       "interactive-segmentation",
                       "medical-imaging",
@@ -832,8 +832,8 @@
                     "id": 635751761,
                     "language": "Jupyter Notebook",
                     "license": "MIT",
-                    "last_commit": "2026-09-01T14:50:01Z",
-                    "open_issues": 70,
+                    "last_commit": "2026-09-02T18:05:34Z",
+                    "open_issues": 71,
                     "owner": "computational-cell-analytics",
                     "repo": "micro-sam",
                     "stars": 716,
@@ -877,7 +877,7 @@
                     "open_issues": 114,
                     "owner": "geekyutao",
                     "repo": "Inpaint-Anything",
-                    "stars": 7703,
+                    "stars": 7704,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:42:58.421Z"
@@ -1112,7 +1112,7 @@
                     "open_issues": 19,
                     "owner": "zyc00",
                     "repo": "Point-SAM",
-                    "stars": 463,
+                    "stars": 464,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:42:58.421Z"
@@ -1260,7 +1260,7 @@
                     "open_issues": 4,
                     "owner": "DingLei14",
                     "repo": "SAM-CD",
-                    "stars": 227,
+                    "stars": 228,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:42:58.421Z"
@@ -1401,7 +1401,7 @@
                     "open_issues": 45,
                     "owner": "z-x-yang",
                     "repo": "Segment-and-Track-Anything",
-                    "stars": 3134,
+                    "stars": 3135,
                     "topics": [
                       "interactive-segmentation",
                       "segment-anything",
@@ -1844,7 +1844,7 @@
                     "open_issues": 50,
                     "owner": "vietanhdev",
                     "repo": "anylabeling",
-                    "stars": 3464,
+                    "stars": 3465,
                     "topics": [
                       "auto-labeling",
                       "computer-vision",
@@ -1873,11 +1873,11 @@
                     "id": 629516625,
                     "language": "Python",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-08-28T02:02:14Z",
+                    "last_commit": "2026-09-02T09:17:54Z",
                     "open_issues": 19,
                     "owner": "yatengLG",
                     "repo": "ISAT_with_segment_anything",
-                    "stars": 2170,
+                    "stars": 2172,
                     "topics": [
                       "annotation-tool",
                       "computer-vision",
@@ -2030,7 +2030,7 @@
                     "open_issues": 33,
                     "owner": "NVIDIA-AI-IOT",
                     "repo": "nanosam",
-                    "stars": 910,
+                    "stars": 911,
                     "topics": [
                       "jetson-orin",
                       "jetson-orin-nano",
@@ -2137,7 +2137,7 @@
                     "open_issues": 45,
                     "owner": "z-x-yang",
                     "repo": "Segment-and-Track-Anything",
-                    "stars": 3134,
+                    "stars": 3135,
                     "topics": [
                       "interactive-segmentation",
                       "segment-anything",
@@ -2272,7 +2272,7 @@
                     "open_issues": 61,
                     "owner": "cvlab-columbia",
                     "repo": "zero123",
-                    "stars": 3058,
+                    "stars": 3059,
                     "topics": [
                       "image-to-3d",
                       "novel-view-synthesis",
@@ -2547,7 +2547,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T19:38:07.025Z",
+    "last_updated": "2026-09-02T19:31:11.646Z",
     "original_repository_info": {
       "archived": false,
       "description": "Tracking and collecting papers/projects/others related to Segment Anything.",
