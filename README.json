@@ -21,7 +21,7 @@
                 "open_issues": 272,
                 "owner": "openai",
                 "repo": "CLIP",
-                "stars": 34258,
+                "stars": 34262,
                 "topics": [
                   "deep-learning",
                   "machine-learning"
@@ -124,7 +124,7 @@
                 "open_issues": 324,
                 "owner": "IDEA-Research",
                 "repo": "GroundingDINO",
-                "stars": 10542,
+                "stars": 10543,
                 "topics": [
                   "object-detection",
                   "open-world",
@@ -151,7 +151,7 @@
                 "open_issues": 594,
                 "owner": "facebookresearch",
                 "repo": "segment-anything",
-                "stars": 54796,
+                "stars": 54798,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:42:58.421Z"
@@ -201,7 +201,7 @@
                 "open_issues": 60,
                 "owner": "UX-Decoder",
                 "repo": "Segment-Everything-Everywhere-All-At-Once",
-                "stars": 4794,
+                "stars": 4793,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:42:58.421Z"
@@ -219,10 +219,10 @@
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
                 "last_commit": "2026-05-30T02:29:40Z",
-                "open_issues": 483,
+                "open_issues": 484,
                 "owner": "facebookresearch",
                 "repo": "sam2",
-                "stars": 19811,
+                "stars": 19812,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:42:58.421Z"
@@ -385,7 +385,7 @@
                     "open_issues": 110,
                     "owner": "SysCV",
                     "repo": "sam-hq",
-                    "stars": 4258,
+                    "stars": 4257,
                     "topics": [
                       "high-quality",
                       "sam",
@@ -434,7 +434,7 @@
                     "open_issues": 147,
                     "owner": "CASIA-LMC-Lab",
                     "repo": "FastSAM",
-                    "stars": 8409,
+                    "stars": 8408,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:42:58.421Z"
@@ -455,7 +455,7 @@
                     "open_issues": 119,
                     "owner": "ChaoningZhang",
                     "repo": "MobileSAM",
-                    "stars": 5866,
+                    "stars": 5865,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:42:58.421Z"
@@ -590,7 +590,7 @@
                     "open_issues": 81,
                     "owner": "UX-Decoder",
                     "repo": "Semantic-SAM",
-                    "stars": 2854,
+                    "stars": 2853,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:42:58.421Z"
@@ -659,7 +659,7 @@
                     "open_issues": 17,
                     "owner": "bowang-lab",
                     "repo": "MedSAM",
-                    "stars": 4386,
+                    "stars": 4387,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:42:58.421Z"
@@ -713,7 +713,7 @@
                     "open_issues": 65,
                     "owner": "ImprintLab",
                     "repo": "Medical-SAM-Adapter",
-                    "stars": 1322,
+                    "stars": 1321,
                     "topics": [
                       "adapter",
                       "deep-learning",
@@ -832,11 +832,11 @@
                     "id": 635751761,
                     "language": "Jupyter Notebook",
                     "license": "MIT",
-                    "last_commit": "2026-09-04T16:13:49Z",
-                    "open_issues": 71,
+                    "last_commit": "2026-09-05T17:12:55Z",
+                    "open_issues": 72,
                     "owner": "computational-cell-analytics",
                     "repo": "micro-sam",
-                    "stars": 717,
+                    "stars": 718,
                     "topics": [
                       "automatic-segmentation",
                       "bioimage-analysis",
@@ -877,7 +877,7 @@
                     "open_issues": 114,
                     "owner": "geekyutao",
                     "repo": "Inpaint-Anything",
-                    "stars": 7705,
+                    "stars": 7706,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:42:58.421Z"
@@ -1586,7 +1586,7 @@
                     "open_issues": 310,
                     "owner": "IDEA-Research",
                     "repo": "Grounded-Segment-Anything",
-                    "stars": 17718,
+                    "stars": 17719,
                     "topics": [
                       "3d-whole-body-pose-estimation",
                       "automatic-labeling-system",
@@ -2272,7 +2272,7 @@
                     "open_issues": 61,
                     "owner": "cvlab-columbia",
                     "repo": "zero123",
-                    "stars": 3057,
+                    "stars": 3058,
                     "topics": [
                       "image-to-3d",
                       "novel-view-synthesis",
@@ -2547,7 +2547,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T19:09:47.414Z",
+    "last_updated": "2026-09-05T18:36:01.802Z",
     "original_repository_info": {
       "archived": false,
       "description": "Tracking and collecting papers/projects/others related to Segment Anything.",
