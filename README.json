@@ -21,7 +21,7 @@
                 "open_issues": 272,
                 "owner": "openai",
                 "repo": "CLIP",
-                "stars": 34279,
+                "stars": 34283,
                 "topics": [
                   "deep-learning",
                   "machine-learning"
@@ -41,11 +41,11 @@
                 "id": 385275507,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-03T20:32:58Z",
+                "last_commit": "2026-09-10T18:40:57Z",
                 "open_issues": 304,
                 "owner": "google-research",
                 "repo": "scenic",
-                "stars": 3824,
+                "stars": 3825,
                 "topics": [
                   "attention",
                   "computer-vision",
@@ -124,7 +124,7 @@
                 "open_issues": 324,
                 "owner": "IDEA-Research",
                 "repo": "GroundingDINO",
-                "stars": 10556,
+                "stars": 10565,
                 "topics": [
                   "object-detection",
                   "open-world",
@@ -219,10 +219,10 @@
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
                 "last_commit": "2026-05-30T02:29:40Z",
-                "open_issues": 484,
+                "open_issues": 485,
                 "owner": "facebookresearch",
                 "repo": "sam2",
-                "stars": 19833,
+                "stars": 19840,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:42:58.421Z"
@@ -659,7 +659,7 @@
                     "open_issues": 17,
                     "owner": "bowang-lab",
                     "repo": "MedSAM",
-                    "stars": 4392,
+                    "stars": 4394,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:42:58.421Z"
@@ -832,8 +832,8 @@
                     "id": 635751761,
                     "language": "Jupyter Notebook",
                     "license": "MIT",
-                    "last_commit": "2026-09-08T22:20:32Z",
-                    "open_issues": 72,
+                    "last_commit": "2026-09-10T13:51:50Z",
+                    "open_issues": 73,
                     "owner": "computational-cell-analytics",
                     "repo": "micro-sam",
                     "stars": 720,
@@ -877,7 +877,7 @@
                     "open_issues": 114,
                     "owner": "geekyutao",
                     "repo": "Inpaint-Anything",
-                    "stars": 7710,
+                    "stars": 7712,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:42:58.421Z"
@@ -1239,7 +1239,7 @@
                     "open_issues": 21,
                     "owner": "KyanChen",
                     "repo": "RSPrompter",
-                    "stars": 666,
+                    "stars": 667,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:42:58.421Z"
@@ -1281,7 +1281,7 @@
                     "open_issues": 28,
                     "owner": "htcr",
                     "repo": "sam_road",
-                    "stars": 293,
+                    "stars": 295,
                     "topics": [
                       "autonomous-driving",
                       "computer-vision",
@@ -1345,7 +1345,7 @@
                     "open_issues": 114,
                     "owner": "gaomingqi",
                     "repo": "Track-Anything",
-                    "stars": 6998,
+                    "stars": 6999,
                     "topics": [
                       "inpaint-anything",
                       "interactive-tracking",
@@ -1373,7 +1373,7 @@
                     "open_issues": 114,
                     "owner": "gaomingqi",
                     "repo": "Track-Anything",
-                    "stars": 6998,
+                    "stars": 6999,
                     "topics": [
                       "inpaint-anything",
                       "interactive-tracking",
@@ -1586,7 +1586,7 @@
                     "open_issues": 310,
                     "owner": "IDEA-Research",
                     "repo": "Grounded-Segment-Anything",
-                    "stars": 17725,
+                    "stars": 17724,
                     "topics": [
                       "3d-whole-body-pose-estimation",
                       "automatic-labeling-system",
@@ -1844,7 +1844,7 @@
                     "open_issues": 50,
                     "owner": "vietanhdev",
                     "repo": "anylabeling",
-                    "stars": 3471,
+                    "stars": 3470,
                     "topics": [
                       "auto-labeling",
                       "computer-vision",
@@ -1877,7 +1877,7 @@
                     "open_issues": 20,
                     "owner": "yatengLG",
                     "repo": "ISAT_with_segment_anything",
-                    "stars": 2174,
+                    "stars": 2175,
                     "topics": [
                       "annotation-tool",
                       "computer-vision",
@@ -2030,7 +2030,7 @@
                     "open_issues": 33,
                     "owner": "NVIDIA-AI-IOT",
                     "repo": "nanosam",
-                    "stars": 915,
+                    "stars": 917,
                     "topics": [
                       "jetson-orin",
                       "jetson-orin-nano",
@@ -2272,7 +2272,7 @@
                     "open_issues": 61,
                     "owner": "cvlab-columbia",
                     "repo": "zero123",
-                    "stars": 3059,
+                    "stars": 3060,
                     "topics": [
                       "image-to-3d",
                       "novel-view-synthesis",
@@ -2326,7 +2326,7 @@
                     "open_issues": 22,
                     "owner": "Pointcept",
                     "repo": "SegmentAnything3D",
-                    "stars": 1385,
+                    "stars": 1386,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:42:58.421Z"
@@ -2547,7 +2547,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T19:30:38.960Z",
+    "last_updated": "2026-09-10T19:17:39.401Z",
     "original_repository_info": {
       "archived": false,
       "description": "Tracking and collecting papers/projects/others related to Segment Anything.",
