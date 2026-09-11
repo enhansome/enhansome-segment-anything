@@ -18,10 +18,10 @@
                 "language": "Jupyter Notebook",
                 "license": "MIT",
                 "last_commit": "2026-03-25T18:46:40Z",
-                "open_issues": 272,
+                "open_issues": 273,
                 "owner": "openai",
                 "repo": "CLIP",
-                "stars": 34283,
+                "stars": 34285,
                 "topics": [
                   "deep-learning",
                   "machine-learning"
@@ -74,7 +74,7 @@
                 "open_issues": 8,
                 "owner": "facebookresearch",
                 "repo": "ov-seg",
-                "stars": 758,
+                "stars": 757,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:42:58.421Z"
@@ -124,7 +124,7 @@
                 "open_issues": 324,
                 "owner": "IDEA-Research",
                 "repo": "GroundingDINO",
-                "stars": 10565,
+                "stars": 10570,
                 "topics": [
                   "object-detection",
                   "open-world",
@@ -151,7 +151,7 @@
                 "open_issues": 594,
                 "owner": "facebookresearch",
                 "repo": "segment-anything",
-                "stars": 54838,
+                "stars": 54845,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:42:58.421Z"
@@ -222,7 +222,7 @@
                 "open_issues": 485,
                 "owner": "facebookresearch",
                 "repo": "sam2",
-                "stars": 19840,
+                "stars": 19850,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:42:58.421Z"
@@ -434,7 +434,7 @@
                     "open_issues": 147,
                     "owner": "CASIA-LMC-Lab",
                     "repo": "FastSAM",
-                    "stars": 8408,
+                    "stars": 8409,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:42:58.421Z"
@@ -518,7 +518,7 @@
                     "open_issues": 14,
                     "owner": "czg1225",
                     "repo": "SlimSAM",
-                    "stars": 364,
+                    "stars": 363,
                     "topics": [
                       "knowledge-distillation",
                       "model-compression",
@@ -607,7 +607,7 @@
                     "id": 1037851667,
                     "language": "Jupyter Notebook",
                     "license": "BSD-3-Clause",
-                    "last_commit": "2026-07-17T13:10:32Z",
+                    "last_commit": "2026-09-11T09:49:26Z",
                     "open_issues": 0,
                     "owner": "rankseg",
                     "repo": "rankseg",
@@ -808,7 +808,7 @@
                     "open_issues": 14,
                     "owner": "wenxi-yue",
                     "repo": "SurgicalSAM",
-                    "stars": 131,
+                    "stars": 132,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:42:58.421Z"
@@ -832,11 +832,11 @@
                     "id": 635751761,
                     "language": "Jupyter Notebook",
                     "license": "MIT",
-                    "last_commit": "2026-09-10T13:51:50Z",
-                    "open_issues": 73,
+                    "last_commit": "2026-09-11T11:56:29Z",
+                    "open_issues": 72,
                     "owner": "computational-cell-analytics",
                     "repo": "micro-sam",
-                    "stars": 720,
+                    "stars": 721,
                     "topics": [
                       "automatic-segmentation",
                       "bioimage-analysis",
@@ -877,7 +877,7 @@
                     "open_issues": 114,
                     "owner": "geekyutao",
                     "repo": "Inpaint-Anything",
-                    "stars": 7712,
+                    "stars": 7713,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:42:58.421Z"
@@ -933,7 +933,7 @@
                     "open_issues": 5,
                     "owner": "zzh-tech",
                     "repo": "InterpAny-Clearer",
-                    "stars": 295,
+                    "stars": 296,
                     "topics": [
                       "computer-vision",
                       "deep-learning",
@@ -1491,7 +1491,7 @@
                     "open_issues": 115,
                     "owner": "JIA-Lab-research",
                     "repo": "LISA",
-                    "stars": 2675,
+                    "stars": 2677,
                     "topics": [
                       "large-language-model",
                       "llm",
@@ -1517,7 +1517,7 @@
                     "open_issues": 26,
                     "owner": "bytedance",
                     "repo": "Sa2VA",
-                    "stars": 1669,
+                    "stars": 1670,
                     "topics": [
                       "computer-vision",
                       "large-language-models",
@@ -1586,7 +1586,7 @@
                     "open_issues": 310,
                     "owner": "IDEA-Research",
                     "repo": "Grounded-Segment-Anything",
-                    "stars": 17724,
+                    "stars": 17723,
                     "topics": [
                       "3d-whole-body-pose-estimation",
                       "automatic-labeling-system",
@@ -1641,7 +1641,7 @@
                     "open_issues": 27,
                     "owner": "fudan-zvg",
                     "repo": "Semantic-Segment-Anything",
-                    "stars": 2301,
+                    "stars": 2300,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:42:58.421Z"
@@ -1844,7 +1844,7 @@
                     "open_issues": 50,
                     "owner": "vietanhdev",
                     "repo": "anylabeling",
-                    "stars": 3470,
+                    "stars": 3469,
                     "topics": [
                       "auto-labeling",
                       "computer-vision",
@@ -1952,7 +1952,7 @@
                     "open_issues": 1,
                     "owner": "MaybeShewill-CV",
                     "repo": "segment-anything-u-specify",
-                    "stars": 182,
+                    "stars": 181,
                     "topics": [
                       "deep-learning",
                       "instance-segmentation",
@@ -2547,7 +2547,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T19:17:39.401Z",
+    "last_updated": "2026-09-11T19:18:31.301Z",
     "original_repository_info": {
       "archived": false,
       "description": "Tracking and collecting papers/projects/others related to Segment Anything.",
