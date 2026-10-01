@@ -21,7 +21,7 @@
                 "open_issues": 274,
                 "owner": "openai",
                 "repo": "CLIP",
-                "stars": 34394,
+                "stars": 34398,
                 "topics": [
                   "deep-learning",
                   "machine-learning"
@@ -124,7 +124,7 @@
                 "open_issues": 324,
                 "owner": "IDEA-Research",
                 "repo": "GroundingDINO",
-                "stars": 10640,
+                "stars": 10643,
                 "topics": [
                   "object-detection",
                   "open-world",
@@ -151,7 +151,7 @@
                 "open_issues": 595,
                 "owner": "facebookresearch",
                 "repo": "segment-anything",
-                "stars": 54955,
+                "stars": 54962,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:42:58.421Z"
@@ -201,7 +201,7 @@
                 "open_issues": 60,
                 "owner": "UX-Decoder",
                 "repo": "Segment-Everything-Everywhere-All-At-Once",
-                "stars": 4791,
+                "stars": 4792,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:42:58.421Z"
@@ -222,7 +222,7 @@
                 "open_issues": 487,
                 "owner": "facebookresearch",
                 "repo": "sam2",
-                "stars": 19941,
+                "stars": 19944,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:42:58.421Z"
@@ -385,7 +385,7 @@
                     "open_issues": 110,
                     "owner": "SysCV",
                     "repo": "sam-hq",
-                    "stars": 4263,
+                    "stars": 4264,
                     "topics": [
                       "high-quality",
                       "sam",
@@ -434,7 +434,7 @@
                     "open_issues": 148,
                     "owner": "CASIA-LMC-Lab",
                     "repo": "FastSAM",
-                    "stars": 8416,
+                    "stars": 8417,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:42:58.421Z"
@@ -590,7 +590,7 @@
                     "open_issues": 80,
                     "owner": "UX-Decoder",
                     "repo": "Semantic-SAM",
-                    "stars": 2854,
+                    "stars": 2855,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:42:58.421Z"
@@ -1345,7 +1345,7 @@
                     "open_issues": 114,
                     "owner": "gaomingqi",
                     "repo": "Track-Anything",
-                    "stars": 7004,
+                    "stars": 7005,
                     "topics": [
                       "inpaint-anything",
                       "interactive-tracking",
@@ -1373,7 +1373,7 @@
                     "open_issues": 114,
                     "owner": "gaomingqi",
                     "repo": "Track-Anything",
-                    "stars": 7004,
+                    "stars": 7005,
                     "topics": [
                       "inpaint-anything",
                       "interactive-tracking",
@@ -1586,7 +1586,7 @@
                     "open_issues": 310,
                     "owner": "IDEA-Research",
                     "repo": "Grounded-Segment-Anything",
-                    "stars": 17740,
+                    "stars": 17741,
                     "topics": [
                       "3d-whole-body-pose-estimation",
                       "automatic-labeling-system",
@@ -1976,7 +1976,7 @@
                     "language": "TypeScript",
                     "license": null,
                     "last_commit": "2026-01-22T05:40:42Z",
-                    "open_issues": 5,
+                    "open_issues": 6,
                     "owner": "Kingfish404",
                     "repo": "segment-anything-webui",
                     "stars": 272,
@@ -2004,7 +2004,7 @@
                     "open_issues": 33,
                     "owner": "ziqi-jin",
                     "repo": "finetune-anything",
-                    "stars": 867,
+                    "stars": 868,
                     "topics": [
                       "computer-vision",
                       "deep-learning",
@@ -2547,7 +2547,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-30T21:01:59.478Z",
+    "last_updated": "2026-10-01T21:24:32.952Z",
     "original_repository_info": {
       "archived": false,
       "description": "Tracking and collecting papers/projects/others related to Segment Anything.",
@@ -2559,7 +2559,7 @@
       "open_issues": 0,
       "owner": "Hedlen",
       "repo": "awesome-segment-anything",
-      "stars": 1702,
+      "stars": 1703,
       "topics": [
         "application",
         "awesome-list",
