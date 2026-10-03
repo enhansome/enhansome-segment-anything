@@ -21,7 +21,7 @@
                 "open_issues": 275,
                 "owner": "openai",
                 "repo": "CLIP",
-                "stars": 34402,
+                "stars": 34406,
                 "topics": [
                   "deep-learning",
                   "machine-learning"
@@ -42,7 +42,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-28T08:48:09Z",
-                "open_issues": 305,
+                "open_issues": 309,
                 "owner": "google-research",
                 "repo": "scenic",
                 "stars": 3839,
@@ -151,7 +151,7 @@
                 "open_issues": 595,
                 "owner": "facebookresearch",
                 "repo": "segment-anything",
-                "stars": 54961,
+                "stars": 54964,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:42:58.421Z"
@@ -222,7 +222,7 @@
                 "open_issues": 487,
                 "owner": "facebookresearch",
                 "repo": "sam2",
-                "stars": 19949,
+                "stars": 19952,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:42:58.421Z"
@@ -544,7 +544,7 @@
                     "open_issues": 54,
                     "owner": "yformer",
                     "repo": "EfficientSAM",
-                    "stars": 2497,
+                    "stars": 2498,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:42:58.421Z"
@@ -877,7 +877,7 @@
                     "open_issues": 114,
                     "owner": "geekyutao",
                     "repo": "Inpaint-Anything",
-                    "stars": 7722,
+                    "stars": 7723,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:42:58.421Z"
@@ -1844,7 +1844,7 @@
                     "open_issues": 50,
                     "owner": "vietanhdev",
                     "repo": "anylabeling",
-                    "stars": 3491,
+                    "stars": 3492,
                     "topics": [
                       "auto-labeling",
                       "computer-vision",
@@ -2547,7 +2547,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T05:09:18.704Z",
+    "last_updated": "2026-10-03T19:29:42.370Z",
     "original_repository_info": {
       "archived": false,
       "description": "Tracking and collecting papers/projects/others related to Segment Anything.",
