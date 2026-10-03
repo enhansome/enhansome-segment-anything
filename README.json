@@ -124,7 +124,7 @@
                 "open_issues": 325,
                 "owner": "IDEA-Research",
                 "repo": "GroundingDINO",
-                "stars": 10644,
+                "stars": 10646,
                 "topics": [
                   "object-detection",
                   "open-world",
@@ -151,7 +151,7 @@
                 "open_issues": 595,
                 "owner": "facebookresearch",
                 "repo": "segment-anything",
-                "stars": 54960,
+                "stars": 54961,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:42:58.421Z"
@@ -222,7 +222,7 @@
                 "open_issues": 487,
                 "owner": "facebookresearch",
                 "repo": "sam2",
-                "stars": 19947,
+                "stars": 19949,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:42:58.421Z"
@@ -239,7 +239,7 @@
                 {
                   "node_type": "item",
                   "title": "xmed-lab/CLIP_Surgery",
-                  "description": null,
+                  "description": "xmed-lab/CLIP_Surgery",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -271,7 +271,7 @@
                 {
                   "node_type": "item",
                   "title": "xmed-lab/CLIP_Surgery",
-                  "description": null,
+                  "description": "xmed-lab/CLIP_Surgery",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -385,7 +385,7 @@
                     "open_issues": 110,
                     "owner": "SysCV",
                     "repo": "sam-hq",
-                    "stars": 4262,
+                    "stars": 4264,
                     "topics": [
                       "high-quality",
                       "sam",
@@ -1332,7 +1332,7 @@
                 {
                   "node_type": "item",
                   "title": "Video",
-                  "description": null,
+                  "description": "gaomingqi/Track-Anything",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1360,7 +1360,7 @@
                 {
                   "node_type": "item",
                   "title": "gaomingqi/Track-Anything",
-                  "description": null,
+                  "description": "gaomingqi/Track-Anything",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1573,7 +1573,7 @@
                 {
                   "node_type": "item",
                   "title": "IDEA-Research/Grounded-Segment-Anything",
-                  "description": null,
+                  "description": "IDEA-Research/Grounded-Segment-Anything",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1586,7 +1586,7 @@
                     "open_issues": 310,
                     "owner": "IDEA-Research",
                     "repo": "Grounded-Segment-Anything",
-                    "stars": 17742,
+                    "stars": 17743,
                     "topics": [
                       "3d-whole-body-pose-estimation",
                       "automatic-labeling-system",
@@ -2232,7 +2232,7 @@
                 {
                   "node_type": "item",
                   "title": "Anything-of-anything/Anything-3D",
-                  "description": null,
+                  "description": "Anything-of-anything/Anything-3D",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2259,7 +2259,7 @@
                 {
                   "node_type": "item",
                   "title": "SAM + Zero 1-to-3",
-                  "description": ".",
+                  "description": "cvlab-columbia/zero123",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2396,7 +2396,7 @@
                     "open_issues": 72,
                     "owner": "continue-revolution",
                     "repo": "sd-webui-segment-anything",
-                    "stars": 3496,
+                    "stars": 3497,
                     "topics": [
                       "segment-anything",
                       "stable-diffusion",
@@ -2547,7 +2547,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T21:01:25.060Z",
+    "last_updated": "2026-10-03T05:09:18.704Z",
     "original_repository_info": {
       "archived": false,
       "description": "Tracking and collecting papers/projects/others related to Segment Anything.",
