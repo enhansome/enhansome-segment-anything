@@ -95,7 +95,7 @@
                 "open_issues": 60,
                 "owner": "baaivision",
                 "repo": "Painter",
-                "stars": 2600,
+                "stars": 2599,
                 "topics": [
                   "cvpr2023",
                   "generalist-model",
@@ -151,7 +151,7 @@
                 "open_issues": 596,
                 "owner": "facebookresearch",
                 "repo": "segment-anything",
-                "stars": 55030,
+                "stars": 55033,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:42:58.421Z"
@@ -172,7 +172,7 @@
                 "open_issues": 60,
                 "owner": "baaivision",
                 "repo": "Painter",
-                "stars": 2600,
+                "stars": 2599,
                 "topics": [
                   "cvpr2023",
                   "generalist-model",
@@ -201,7 +201,7 @@
                 "open_issues": 60,
                 "owner": "UX-Decoder",
                 "repo": "Segment-Everything-Everywhere-All-At-Once",
-                "stars": 4793,
+                "stars": 4792,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:42:58.421Z"
@@ -222,7 +222,7 @@
                 "open_issues": 489,
                 "owner": "facebookresearch",
                 "repo": "sam2",
-                "stars": 20013,
+                "stars": 20014,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:42:58.421Z"
@@ -455,7 +455,7 @@
                     "open_issues": 119,
                     "owner": "ChaoningZhang",
                     "repo": "MobileSAM",
-                    "stars": 5892,
+                    "stars": 5893,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:42:58.421Z"
@@ -565,7 +565,7 @@
                     "open_issues": 29,
                     "owner": "chongzhou96",
                     "repo": "EdgeSAM",
-                    "stars": 1180,
+                    "stars": 1179,
                     "topics": [
                       "coreml",
                       "on-device-ai",
@@ -656,10 +656,10 @@
                     "language": "Jupyter Notebook",
                     "license": "Apache-2.0",
                     "last_commit": "2025-05-07T13:36:16Z",
-                    "open_issues": 17,
+                    "open_issues": 18,
                     "owner": "bowang-lab",
                     "repo": "MedSAM",
-                    "stars": 4416,
+                    "stars": 4417,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:42:58.421Z"
@@ -877,7 +877,7 @@
                     "open_issues": 114,
                     "owner": "geekyutao",
                     "repo": "Inpaint-Anything",
-                    "stars": 7727,
+                    "stars": 7726,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:42:58.421Z"
@@ -1281,7 +1281,7 @@
                     "open_issues": 28,
                     "owner": "htcr",
                     "repo": "sam_road",
-                    "stars": 297,
+                    "stars": 298,
                     "topics": [
                       "autonomous-driving",
                       "computer-vision",
@@ -1586,7 +1586,7 @@
                     "open_issues": 310,
                     "owner": "IDEA-Research",
                     "repo": "Grounded-Segment-Anything",
-                    "stars": 17758,
+                    "stars": 17760,
                     "topics": [
                       "3d-whole-body-pose-estimation",
                       "automatic-labeling-system",
@@ -1662,7 +1662,7 @@
                     "open_issues": 24,
                     "owner": "kevmo314",
                     "repo": "magic-copy",
-                    "stars": 2454,
+                    "stars": 2453,
                     "topics": [
                       "chrome-extension",
                       "computer-vision",
@@ -1844,7 +1844,7 @@
                     "open_issues": 50,
                     "owner": "vietanhdev",
                     "repo": "anylabeling",
-                    "stars": 3497,
+                    "stars": 3496,
                     "topics": [
                       "auto-labeling",
                       "computer-vision",
@@ -1877,7 +1877,7 @@
                     "open_issues": 20,
                     "owner": "yatengLG",
                     "repo": "ISAT_with_segment_anything",
-                    "stars": 2193,
+                    "stars": 2194,
                     "topics": [
                       "annotation-tool",
                       "computer-vision",
@@ -2030,7 +2030,7 @@
                     "open_issues": 33,
                     "owner": "NVIDIA-AI-IOT",
                     "repo": "nanosam",
-                    "stars": 921,
+                    "stars": 920,
                     "topics": [
                       "jetson-orin",
                       "jetson-orin-nano",
@@ -2354,7 +2354,7 @@
                     "open_issues": 45,
                     "owner": "sail-sg",
                     "repo": "EditAnything",
-                    "stars": 3423,
+                    "stars": 3424,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:42:58.421Z"
@@ -2429,7 +2429,7 @@
                     "open_issues": 8,
                     "owner": "aliaksandr960",
                     "repo": "segment-anything-eo",
-                    "stars": 449,
+                    "stars": 448,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:42:58.421Z"
@@ -2547,7 +2547,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-16T19:43:42.944Z",
+    "last_updated": "2026-10-17T18:51:49.582Z",
     "original_repository_info": {
       "archived": false,
       "description": "Tracking and collecting papers/projects/others related to Segment Anything.",
