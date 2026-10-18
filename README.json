@@ -21,7 +21,7 @@
                 "open_issues": 274,
                 "owner": "openai",
                 "repo": "CLIP",
-                "stars": 34474,
+                "stars": 34478,
                 "topics": [
                   "deep-learning",
                   "machine-learning"
@@ -124,7 +124,7 @@
                 "open_issues": 324,
                 "owner": "IDEA-Research",
                 "repo": "GroundingDINO",
-                "stars": 10682,
+                "stars": 10684,
                 "topics": [
                   "object-detection",
                   "open-world",
@@ -151,7 +151,7 @@
                 "open_issues": 596,
                 "owner": "facebookresearch",
                 "repo": "segment-anything",
-                "stars": 55033,
+                "stars": 55035,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:42:58.421Z"
@@ -222,7 +222,7 @@
                 "open_issues": 489,
                 "owner": "facebookresearch",
                 "repo": "sam2",
-                "stars": 20014,
+                "stars": 20018,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:42:58.421Z"
@@ -337,7 +337,7 @@
                     "open_issues": 40,
                     "owner": "ZrrSkywalker",
                     "repo": "Personalize-SAM",
-                    "stars": 1673,
+                    "stars": 1674,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:42:58.421Z"
@@ -602,12 +602,12 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
-                    "description": "Boost segmentation model mIoU/Dice instantly WITHOUT retraining. A plug-and-play, training-free optimization module. Published in NeurIPS & JMLR. Compatible with SAM, DeepLab, SegFormer, and more. 🧩",
+                    "description": "Optimize segmentation Dice/IoU without retraining. Plug-and-play decoding that replaces argmax or thresholding. Compatible with SAM, DeepLab, SegFormer, and more. Research published in NeurIPS & JMLR. 🧩",
                     "homepage": "https://rankseg.readthedocs.io/",
                     "id": 1037851667,
                     "language": "Jupyter Notebook",
                     "license": "BSD-3-Clause",
-                    "last_commit": "2026-10-13T09:19:53Z",
+                    "last_commit": "2026-10-18T11:58:24Z",
                     "open_issues": 0,
                     "owner": "rankseg",
                     "repo": "rankseg",
@@ -659,7 +659,7 @@
                     "open_issues": 18,
                     "owner": "bowang-lab",
                     "repo": "MedSAM",
-                    "stars": 4417,
+                    "stars": 4418,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:42:58.421Z"
@@ -1345,7 +1345,7 @@
                     "open_issues": 114,
                     "owner": "gaomingqi",
                     "repo": "Track-Anything",
-                    "stars": 7010,
+                    "stars": 7009,
                     "topics": [
                       "inpaint-anything",
                       "interactive-tracking",
@@ -1373,7 +1373,7 @@
                     "open_issues": 114,
                     "owner": "gaomingqi",
                     "repo": "Track-Anything",
-                    "stars": 7010,
+                    "stars": 7009,
                     "topics": [
                       "inpaint-anything",
                       "interactive-tracking",
@@ -1491,7 +1491,7 @@
                     "open_issues": 115,
                     "owner": "JIA-Lab-research",
                     "repo": "LISA",
-                    "stars": 2687,
+                    "stars": 2688,
                     "topics": [
                       "large-language-model",
                       "llm",
@@ -1586,7 +1586,7 @@
                     "open_issues": 310,
                     "owner": "IDEA-Research",
                     "repo": "Grounded-Segment-Anything",
-                    "stars": 17760,
+                    "stars": 17764,
                     "topics": [
                       "3d-whole-body-pose-estimation",
                       "automatic-labeling-system",
@@ -1662,7 +1662,7 @@
                     "open_issues": 24,
                     "owner": "kevmo314",
                     "repo": "magic-copy",
-                    "stars": 2453,
+                    "stars": 2454,
                     "topics": [
                       "chrome-extension",
                       "computer-vision",
@@ -2396,7 +2396,7 @@
                     "open_issues": 72,
                     "owner": "continue-revolution",
                     "repo": "sd-webui-segment-anything",
-                    "stars": 3498,
+                    "stars": 3497,
                     "topics": [
                       "segment-anything",
                       "stable-diffusion",
@@ -2547,7 +2547,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T18:51:49.582Z",
+    "last_updated": "2026-10-18T18:58:17.018Z",
     "original_repository_info": {
       "archived": false,
       "description": "Tracking and collecting papers/projects/others related to Segment Anything.",
