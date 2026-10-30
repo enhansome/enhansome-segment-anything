@@ -21,7 +21,7 @@
                 "open_issues": 274,
                 "owner": "openai",
                 "repo": "CLIP",
-                "stars": 34542,
+                "stars": 34549,
                 "topics": [
                   "deep-learning",
                   "machine-learning"
@@ -45,7 +45,7 @@
                 "open_issues": 314,
                 "owner": "google-research",
                 "repo": "scenic",
-                "stars": 3845,
+                "stars": 3847,
                 "topics": [
                   "attention",
                   "computer-vision",
@@ -95,7 +95,7 @@
                 "open_issues": 60,
                 "owner": "baaivision",
                 "repo": "Painter",
-                "stars": 2599,
+                "stars": 2598,
                 "topics": [
                   "cvpr2023",
                   "generalist-model",
@@ -124,7 +124,7 @@
                 "open_issues": 325,
                 "owner": "IDEA-Research",
                 "repo": "GroundingDINO",
-                "stars": 10719,
+                "stars": 10721,
                 "topics": [
                   "object-detection",
                   "open-world",
@@ -151,7 +151,7 @@
                 "open_issues": 596,
                 "owner": "facebookresearch",
                 "repo": "segment-anything",
-                "stars": 55075,
+                "stars": 55081,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:42:58.421Z"
@@ -172,7 +172,7 @@
                 "open_issues": 60,
                 "owner": "baaivision",
                 "repo": "Painter",
-                "stars": 2599,
+                "stars": 2598,
                 "topics": [
                   "cvpr2023",
                   "generalist-model",
@@ -222,7 +222,7 @@
                 "open_issues": 489,
                 "owner": "facebookresearch",
                 "repo": "sam2",
-                "stars": 20078,
+                "stars": 20080,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:42:58.421Z"
@@ -385,7 +385,7 @@
                     "open_issues": 110,
                     "owner": "SysCV",
                     "repo": "sam-hq",
-                    "stars": 4264,
+                    "stars": 4265,
                     "topics": [
                       "high-quality",
                       "sam",
@@ -434,7 +434,7 @@
                     "open_issues": 147,
                     "owner": "CASIA-LMC-Lab",
                     "repo": "FastSAM",
-                    "stars": 8425,
+                    "stars": 8426,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:42:58.421Z"
@@ -590,7 +590,7 @@
                     "open_issues": 80,
                     "owner": "UX-Decoder",
                     "repo": "Semantic-SAM",
-                    "stars": 2852,
+                    "stars": 2851,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:42:58.421Z"
@@ -659,7 +659,7 @@
                     "open_issues": 19,
                     "owner": "bowang-lab",
                     "repo": "MedSAM",
-                    "stars": 4432,
+                    "stars": 4434,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:42:58.421Z"
@@ -737,10 +737,10 @@
                     "language": "Jupyter Notebook",
                     "license": "Apache-2.0",
                     "last_commit": "2024-06-18T13:23:31Z",
-                    "open_issues": 51,
+                    "open_issues": 52,
                     "owner": "OpenGVLab",
                     "repo": "SAM-Med2D",
-                    "stars": 1141,
+                    "stars": 1142,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:42:58.421Z"
@@ -1491,7 +1491,7 @@
                     "open_issues": 114,
                     "owner": "JIA-Lab-research",
                     "repo": "LISA",
-                    "stars": 2689,
+                    "stars": 2690,
                     "topics": [
                       "large-language-model",
                       "llm",
@@ -1513,11 +1513,11 @@
                     "id": 912869501,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-27T01:32:18Z",
-                    "open_issues": 15,
+                    "last_commit": "2026-10-30T06:00:24Z",
+                    "open_issues": 4,
                     "owner": "bytedance",
                     "repo": "Sa2VA",
-                    "stars": 1694,
+                    "stars": 1695,
                     "topics": [
                       "computer-vision",
                       "large-language-models",
@@ -1586,7 +1586,7 @@
                     "open_issues": 310,
                     "owner": "IDEA-Research",
                     "repo": "Grounded-Segment-Anything",
-                    "stars": 17790,
+                    "stars": 17789,
                     "topics": [
                       "3d-whole-body-pose-estimation",
                       "automatic-labeling-system",
@@ -1844,7 +1844,7 @@
                     "open_issues": 50,
                     "owner": "vietanhdev",
                     "repo": "anylabeling",
-                    "stars": 3509,
+                    "stars": 3510,
                     "topics": [
                       "auto-labeling",
                       "computer-vision",
@@ -2547,7 +2547,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-29T21:27:01.467Z",
+    "last_updated": "2026-10-30T21:05:59.529Z",
     "original_repository_info": {
       "archived": false,
       "description": "Tracking and collecting papers/projects/others related to Segment Anything.",
