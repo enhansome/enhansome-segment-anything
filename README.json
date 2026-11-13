@@ -18,10 +18,10 @@
                 "language": "Jupyter Notebook",
                 "license": "MIT",
                 "last_commit": "2026-03-25T18:46:40Z",
-                "open_issues": 273,
+                "open_issues": 274,
                 "owner": "openai",
                 "repo": "CLIP",
-                "stars": 34602,
+                "stars": 34607,
                 "topics": [
                   "deep-learning",
                   "machine-learning"
@@ -95,7 +95,7 @@
                 "open_issues": 60,
                 "owner": "baaivision",
                 "repo": "Painter",
-                "stars": 2598,
+                "stars": 2599,
                 "topics": [
                   "cvpr2023",
                   "generalist-model",
@@ -124,7 +124,7 @@
                 "open_issues": 326,
                 "owner": "IDEA-Research",
                 "repo": "GroundingDINO",
-                "stars": 10749,
+                "stars": 10752,
                 "topics": [
                   "object-detection",
                   "open-world",
@@ -151,7 +151,7 @@
                 "open_issues": 597,
                 "owner": "facebookresearch",
                 "repo": "segment-anything",
-                "stars": 55129,
+                "stars": 55133,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:42:58.421Z"
@@ -172,7 +172,7 @@
                 "open_issues": 60,
                 "owner": "baaivision",
                 "repo": "Painter",
-                "stars": 2598,
+                "stars": 2599,
                 "topics": [
                   "cvpr2023",
                   "generalist-model",
@@ -219,10 +219,10 @@
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
                 "last_commit": "2026-05-30T02:29:40Z",
-                "open_issues": 488,
+                "open_issues": 487,
                 "owner": "facebookresearch",
                 "repo": "sam2",
-                "stars": 20141,
+                "stars": 20147,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:42:58.421Z"
@@ -473,7 +473,7 @@
                     "language": "Python",
                     "license": "Apache-2.0",
                     "last_commit": "2024-01-24T10:06:55Z",
-                    "open_issues": 14,
+                    "open_issues": 15,
                     "owner": "jamesjg",
                     "repo": "FoodSAM",
                     "stars": 184,
@@ -518,7 +518,7 @@
                     "open_issues": 14,
                     "owner": "czg1225",
                     "repo": "SlimSAM",
-                    "stars": 362,
+                    "stars": 363,
                     "topics": [
                       "knowledge-distillation",
                       "model-compression",
@@ -832,8 +832,8 @@
                     "id": 635751761,
                     "language": "Jupyter Notebook",
                     "license": "MIT",
-                    "last_commit": "2026-11-12T07:13:23Z",
-                    "open_issues": 79,
+                    "last_commit": "2026-11-13T00:57:25Z",
+                    "open_issues": 78,
                     "owner": "computational-cell-analytics",
                     "repo": "micro-sam",
                     "stars": 745,
@@ -1239,7 +1239,7 @@
                     "open_issues": 21,
                     "owner": "KyanChen",
                     "repo": "RSPrompter",
-                    "stars": 673,
+                    "stars": 675,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:42:58.421Z"
@@ -1345,7 +1345,7 @@
                     "open_issues": 114,
                     "owner": "gaomingqi",
                     "repo": "Track-Anything",
-                    "stars": 7015,
+                    "stars": 7016,
                     "topics": [
                       "inpaint-anything",
                       "interactive-tracking",
@@ -1373,7 +1373,7 @@
                     "open_issues": 114,
                     "owner": "gaomingqi",
                     "repo": "Track-Anything",
-                    "stars": 7015,
+                    "stars": 7016,
                     "topics": [
                       "inpaint-anything",
                       "interactive-tracking",
@@ -1586,7 +1586,7 @@
                     "open_issues": 310,
                     "owner": "IDEA-Research",
                     "repo": "Grounded-Segment-Anything",
-                    "stars": 17794,
+                    "stars": 17796,
                     "topics": [
                       "3d-whole-body-pose-estimation",
                       "automatic-labeling-system",
@@ -1662,7 +1662,7 @@
                     "open_issues": 24,
                     "owner": "kevmo314",
                     "repo": "magic-copy",
-                    "stars": 2452,
+                    "stars": 2451,
                     "topics": [
                       "chrome-extension",
                       "computer-vision",
@@ -1844,7 +1844,7 @@
                     "open_issues": 51,
                     "owner": "vietanhdev",
                     "repo": "anylabeling",
-                    "stars": 3523,
+                    "stars": 3524,
                     "topics": [
                       "auto-labeling",
                       "computer-vision",
@@ -2245,7 +2245,7 @@
                     "open_issues": 9,
                     "owner": "Anything-of-anything",
                     "repo": "Anything-3D",
-                    "stars": 1639,
+                    "stars": 1640,
                     "topics": [
                       "3d",
                       "computer-vision",
@@ -2299,7 +2299,7 @@
                     "open_issues": 9,
                     "owner": "Anything-of-anything",
                     "repo": "Anything-3D",
-                    "stars": 1639,
+                    "stars": 1640,
                     "topics": [
                       "3d",
                       "computer-vision",
@@ -2547,7 +2547,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-12T22:27:24.958Z",
+    "last_updated": "2026-11-13T22:13:08.729Z",
     "original_repository_info": {
       "archived": false,
       "description": "Tracking and collecting papers/projects/others related to Segment Anything.",
