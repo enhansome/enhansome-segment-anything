@@ -21,7 +21,7 @@
                 "open_issues": 274,
                 "owner": "openai",
                 "repo": "CLIP",
-                "stars": 34619,
+                "stars": 34624,
                 "topics": [
                   "deep-learning",
                   "machine-learning"
@@ -124,7 +124,7 @@
                 "open_issues": 326,
                 "owner": "IDEA-Research",
                 "repo": "GroundingDINO",
-                "stars": 10752,
+                "stars": 10755,
                 "topics": [
                   "object-detection",
                   "open-world",
@@ -148,10 +148,10 @@
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
                 "last_commit": "2024-09-18T17:46:55Z",
-                "open_issues": 597,
+                "open_issues": 598,
                 "owner": "facebookresearch",
                 "repo": "segment-anything",
-                "stars": 55144,
+                "stars": 55150,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:42:58.421Z"
@@ -222,7 +222,7 @@
                 "open_issues": 488,
                 "owner": "facebookresearch",
                 "repo": "sam2",
-                "stars": 20167,
+                "stars": 20176,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:42:58.421Z"
@@ -680,7 +680,7 @@
                     "open_issues": 66,
                     "owner": "tianrun-chen",
                     "repo": "SAM-Adapter-PyTorch",
-                    "stars": 1558,
+                    "stars": 1559,
                     "topics": [
                       "2d-segmentation",
                       "adapter",
@@ -832,7 +832,7 @@
                     "id": 635751761,
                     "language": "Jupyter Notebook",
                     "license": "MIT",
-                    "last_commit": "2026-11-16T18:22:36Z",
+                    "last_commit": "2026-11-17T12:53:45Z",
                     "open_issues": 81,
                     "owner": "computational-cell-analytics",
                     "repo": "micro-sam",
@@ -1112,7 +1112,7 @@
                     "open_issues": 20,
                     "owner": "zyc00",
                     "repo": "Point-SAM",
-                    "stars": 479,
+                    "stars": 481,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:42:58.421Z"
@@ -1345,7 +1345,7 @@
                     "open_issues": 114,
                     "owner": "gaomingqi",
                     "repo": "Track-Anything",
-                    "stars": 7015,
+                    "stars": 7014,
                     "topics": [
                       "inpaint-anything",
                       "interactive-tracking",
@@ -1373,7 +1373,7 @@
                     "open_issues": 114,
                     "owner": "gaomingqi",
                     "repo": "Track-Anything",
-                    "stars": 7015,
+                    "stars": 7014,
                     "topics": [
                       "inpaint-anything",
                       "interactive-tracking",
@@ -1586,7 +1586,7 @@
                     "open_issues": 310,
                     "owner": "IDEA-Research",
                     "repo": "Grounded-Segment-Anything",
-                    "stars": 17796,
+                    "stars": 17797,
                     "topics": [
                       "3d-whole-body-pose-estimation",
                       "automatic-labeling-system",
@@ -1662,7 +1662,7 @@
                     "open_issues": 24,
                     "owner": "kevmo314",
                     "repo": "magic-copy",
-                    "stars": 2451,
+                    "stars": 2450,
                     "topics": [
                       "chrome-extension",
                       "computer-vision",
@@ -1844,7 +1844,7 @@
                     "open_issues": 51,
                     "owner": "vietanhdev",
                     "repo": "anylabeling",
-                    "stars": 3531,
+                    "stars": 3533,
                     "topics": [
                       "auto-labeling",
                       "computer-vision",
@@ -1877,7 +1877,7 @@
                     "open_issues": 19,
                     "owner": "yatengLG",
                     "repo": "ISAT_with_segment_anything",
-                    "stars": 2206,
+                    "stars": 2207,
                     "topics": [
                       "annotation-tool",
                       "computer-vision",
@@ -2030,7 +2030,7 @@
                     "open_issues": 33,
                     "owner": "NVIDIA-AI-IOT",
                     "repo": "nanosam",
-                    "stars": 926,
+                    "stars": 927,
                     "topics": [
                       "jetson-orin",
                       "jetson-orin-nano",
@@ -2272,7 +2272,7 @@
                     "open_issues": 61,
                     "owner": "cvlab-columbia",
                     "repo": "zero123",
-                    "stars": 3068,
+                    "stars": 3069,
                     "topics": [
                       "image-to-3d",
                       "novel-view-synthesis",
@@ -2326,7 +2326,7 @@
                     "open_issues": 22,
                     "owner": "Pointcept",
                     "repo": "SegmentAnything3D",
-                    "stars": 1393,
+                    "stars": 1392,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:42:58.421Z"
@@ -2354,7 +2354,7 @@
                     "open_issues": 45,
                     "owner": "sail-sg",
                     "repo": "EditAnything",
-                    "stars": 3420,
+                    "stars": 3419,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:42:58.421Z"
@@ -2547,7 +2547,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-17T00:30:27.888Z",
+    "last_updated": "2026-11-17T23:40:01.160Z",
     "original_repository_info": {
       "archived": false,
       "description": "Tracking and collecting papers/projects/others related to Segment Anything.",
