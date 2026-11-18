@@ -21,7 +21,7 @@
                 "open_issues": 274,
                 "owner": "openai",
                 "repo": "CLIP",
-                "stars": 34624,
+                "stars": 34627,
                 "topics": [
                   "deep-learning",
                   "machine-learning"
@@ -45,7 +45,7 @@
                 "open_issues": 314,
                 "owner": "google-research",
                 "repo": "scenic",
-                "stars": 3848,
+                "stars": 3849,
                 "topics": [
                   "attention",
                   "computer-vision",
@@ -124,7 +124,7 @@
                 "open_issues": 326,
                 "owner": "IDEA-Research",
                 "repo": "GroundingDINO",
-                "stars": 10755,
+                "stars": 10757,
                 "topics": [
                   "object-detection",
                   "open-world",
@@ -151,7 +151,7 @@
                 "open_issues": 598,
                 "owner": "facebookresearch",
                 "repo": "segment-anything",
-                "stars": 55150,
+                "stars": 55154,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:42:58.421Z"
@@ -222,7 +222,7 @@
                 "open_issues": 488,
                 "owner": "facebookresearch",
                 "repo": "sam2",
-                "stars": 20176,
+                "stars": 20186,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:42:58.421Z"
@@ -385,7 +385,7 @@
                     "open_issues": 110,
                     "owner": "SysCV",
                     "repo": "sam-hq",
-                    "stars": 4267,
+                    "stars": 4268,
                     "topics": [
                       "high-quality",
                       "sam",
@@ -434,7 +434,7 @@
                     "open_issues": 147,
                     "owner": "CASIA-LMC-Lab",
                     "repo": "FastSAM",
-                    "stars": 8436,
+                    "stars": 8435,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:42:58.421Z"
@@ -455,7 +455,7 @@
                     "open_issues": 119,
                     "owner": "ChaoningZhang",
                     "repo": "MobileSAM",
-                    "stars": 5921,
+                    "stars": 5922,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:42:58.421Z"
@@ -607,7 +607,7 @@
                     "id": 1037851667,
                     "language": "Jupyter Notebook",
                     "license": "BSD-3-Clause",
-                    "last_commit": "2026-11-12T07:06:10Z",
+                    "last_commit": "2026-11-18T08:20:44Z",
                     "open_issues": 1,
                     "owner": "rankseg",
                     "repo": "rankseg",
@@ -659,7 +659,7 @@
                     "open_issues": 19,
                     "owner": "bowang-lab",
                     "repo": "MedSAM",
-                    "stars": 4449,
+                    "stars": 4450,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:42:58.421Z"
@@ -713,7 +713,7 @@
                     "open_issues": 66,
                     "owner": "ImprintLab",
                     "repo": "Medical-SAM-Adapter",
-                    "stars": 1325,
+                    "stars": 1324,
                     "topics": [
                       "adapter",
                       "deep-learning",
@@ -827,29 +827,37 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
-                    "description": "Segment Anything for Microscopy",
+                    "description": "Segment Anything for Microscopy 2",
                     "homepage": "https://computational-cell-analytics.github.io/micro-sam/",
                     "id": 635751761,
-                    "language": "Jupyter Notebook",
+                    "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-11-17T12:53:45Z",
-                    "open_issues": 81,
+                    "last_commit": "2026-11-18T21:34:01Z",
+                    "open_issues": 74,
                     "owner": "computational-cell-analytics",
                     "repo": "micro-sam",
-                    "stars": 746,
+                    "stars": 748,
                     "topics": [
+                      "annotation",
                       "automatic-segmentation",
+                      "batch-processing",
                       "bioimage-analysis",
                       "cell-segmentation",
+                      "electron-microscopy",
+                      "histopathology",
                       "interactive-segmentation",
+                      "light-microscopy",
                       "micro-sam",
+                      "micro-sam2",
                       "microscopy",
-                      "microscopy-images",
                       "mitochondria-segmentation",
                       "napari",
                       "nuclei-segmentation",
+                      "object-classification",
                       "segment-anything",
-                      "segmentation"
+                      "segment-anything-2",
+                      "segmentation",
+                      "tracking"
                     ]
                   },
                   "first_seen": "2026-08-29T00:42:58.421Z"
@@ -1239,7 +1247,7 @@
                     "open_issues": 21,
                     "owner": "KyanChen",
                     "repo": "RSPrompter",
-                    "stars": 675,
+                    "stars": 676,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:42:58.421Z"
@@ -1345,7 +1353,7 @@
                     "open_issues": 114,
                     "owner": "gaomingqi",
                     "repo": "Track-Anything",
-                    "stars": 7014,
+                    "stars": 7013,
                     "topics": [
                       "inpaint-anything",
                       "interactive-tracking",
@@ -1373,7 +1381,7 @@
                     "open_issues": 114,
                     "owner": "gaomingqi",
                     "repo": "Track-Anything",
-                    "stars": 7014,
+                    "stars": 7013,
                     "topics": [
                       "inpaint-anything",
                       "interactive-tracking",
@@ -1586,7 +1594,7 @@
                     "open_issues": 310,
                     "owner": "IDEA-Research",
                     "repo": "Grounded-Segment-Anything",
-                    "stars": 17797,
+                    "stars": 17798,
                     "topics": [
                       "3d-whole-body-pose-estimation",
                       "automatic-labeling-system",
@@ -1662,7 +1670,7 @@
                     "open_issues": 24,
                     "owner": "kevmo314",
                     "repo": "magic-copy",
-                    "stars": 2450,
+                    "stars": 2448,
                     "topics": [
                       "chrome-extension",
                       "computer-vision",
@@ -1844,7 +1852,7 @@
                     "open_issues": 51,
                     "owner": "vietanhdev",
                     "repo": "anylabeling",
-                    "stars": 3533,
+                    "stars": 3534,
                     "topics": [
                       "auto-labeling",
                       "computer-vision",
@@ -2171,7 +2179,7 @@
                     "open_issues": 12,
                     "owner": "MIC-DKFZ",
                     "repo": "napari-sam",
-                    "stars": 250,
+                    "stars": 249,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:42:58.421Z"
@@ -2547,7 +2555,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-17T23:40:01.160Z",
+    "last_updated": "2026-11-18T23:09:13.755Z",
     "original_repository_info": {
       "archived": false,
       "description": "Tracking and collecting papers/projects/others related to Segment Anything.",
