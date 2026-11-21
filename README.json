@@ -21,7 +21,7 @@
                 "open_issues": 274,
                 "owner": "openai",
                 "repo": "CLIP",
-                "stars": 34637,
+                "stars": 34639,
                 "topics": [
                   "deep-learning",
                   "machine-learning"
@@ -124,7 +124,7 @@
                 "open_issues": 326,
                 "owner": "IDEA-Research",
                 "repo": "GroundingDINO",
-                "stars": 10760,
+                "stars": 10762,
                 "topics": [
                   "object-detection",
                   "open-world",
@@ -151,7 +151,7 @@
                 "open_issues": 598,
                 "owner": "facebookresearch",
                 "repo": "segment-anything",
-                "stars": 55168,
+                "stars": 55171,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:42:58.421Z"
@@ -219,10 +219,10 @@
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
                 "last_commit": "2026-05-30T02:29:40Z",
-                "open_issues": 488,
+                "open_issues": 490,
                 "owner": "facebookresearch",
                 "repo": "sam2",
-                "stars": 20193,
+                "stars": 20205,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:42:58.421Z"
@@ -434,7 +434,7 @@
                     "open_issues": 147,
                     "owner": "CASIA-LMC-Lab",
                     "repo": "FastSAM",
-                    "stars": 8436,
+                    "stars": 8437,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:42:58.421Z"
@@ -832,11 +832,11 @@
                     "id": 635751761,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-11-20T02:49:23Z",
-                    "open_issues": 81,
+                    "last_commit": "2026-11-21T16:27:55Z",
+                    "open_issues": 82,
                     "owner": "computational-cell-analytics",
                     "repo": "micro-sam",
-                    "stars": 772,
+                    "stars": 773,
                     "topics": [
                       "annotation",
                       "automatic-segmentation",
@@ -1030,7 +1030,7 @@
                     "open_issues": 10,
                     "owner": "SHI-Labs",
                     "repo": "Matting-Anything",
-                    "stars": 721,
+                    "stars": 722,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:42:58.421Z"
@@ -1353,7 +1353,7 @@
                     "open_issues": 114,
                     "owner": "gaomingqi",
                     "repo": "Track-Anything",
-                    "stars": 7014,
+                    "stars": 7015,
                     "topics": [
                       "inpaint-anything",
                       "interactive-tracking",
@@ -1381,7 +1381,7 @@
                     "open_issues": 114,
                     "owner": "gaomingqi",
                     "repo": "Track-Anything",
-                    "stars": 7014,
+                    "stars": 7015,
                     "topics": [
                       "inpaint-anything",
                       "interactive-tracking",
@@ -2555,7 +2555,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-20T22:49:31.168Z",
+    "last_updated": "2026-11-21T21:54:47.978Z",
     "original_repository_info": {
       "archived": false,
       "description": "Tracking and collecting papers/projects/others related to Segment Anything.",
