@@ -21,7 +21,7 @@
                 "open_issues": 274,
                 "owner": "openai",
                 "repo": "CLIP",
-                "stars": 34656,
+                "stars": 34660,
                 "topics": [
                   "deep-learning",
                   "machine-learning"
@@ -124,7 +124,7 @@
                 "open_issues": 326,
                 "owner": "IDEA-Research",
                 "repo": "GroundingDINO",
-                "stars": 10771,
+                "stars": 10776,
                 "topics": [
                   "object-detection",
                   "open-world",
@@ -151,7 +151,7 @@
                 "open_issues": 598,
                 "owner": "facebookresearch",
                 "repo": "segment-anything",
-                "stars": 55177,
+                "stars": 55180,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:42:58.421Z"
@@ -219,10 +219,10 @@
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
                 "last_commit": "2026-05-30T02:29:40Z",
-                "open_issues": 490,
+                "open_issues": 491,
                 "owner": "facebookresearch",
                 "repo": "sam2",
-                "stars": 20220,
+                "stars": 20237,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:42:58.421Z"
@@ -337,7 +337,7 @@
                     "open_issues": 41,
                     "owner": "ZrrSkywalker",
                     "repo": "Personalize-SAM",
-                    "stars": 1681,
+                    "stars": 1682,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:42:58.421Z"
@@ -434,7 +434,7 @@
                     "open_issues": 147,
                     "owner": "CASIA-LMC-Lab",
                     "repo": "FastSAM",
-                    "stars": 8446,
+                    "stars": 8447,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:42:58.421Z"
@@ -455,7 +455,7 @@
                     "open_issues": 119,
                     "owner": "ChaoningZhang",
                     "repo": "MobileSAM",
-                    "stars": 5926,
+                    "stars": 5928,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:42:58.421Z"
@@ -565,7 +565,7 @@
                     "open_issues": 29,
                     "owner": "chongzhou96",
                     "repo": "EdgeSAM",
-                    "stars": 1181,
+                    "stars": 1182,
                     "topics": [
                       "coreml",
                       "on-device-ai",
@@ -659,7 +659,7 @@
                     "open_issues": 20,
                     "owner": "bowang-lab",
                     "repo": "MedSAM",
-                    "stars": 4458,
+                    "stars": 4459,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:42:58.421Z"
@@ -832,11 +832,11 @@
                     "id": 635751761,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-11-24T08:02:30Z",
-                    "open_issues": 84,
+                    "last_commit": "2026-11-25T22:41:22Z",
+                    "open_issues": 85,
                     "owner": "computational-cell-analytics",
                     "repo": "micro-sam",
-                    "stars": 779,
+                    "stars": 783,
                     "topics": [
                       "annotation",
                       "automatic-segmentation",
@@ -885,7 +885,7 @@
                     "open_issues": 114,
                     "owner": "geekyutao",
                     "repo": "Inpaint-Anything",
-                    "stars": 7739,
+                    "stars": 7740,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:42:58.421Z"
@@ -1289,7 +1289,7 @@
                     "open_issues": 28,
                     "owner": "htcr",
                     "repo": "sam_road",
-                    "stars": 302,
+                    "stars": 303,
                     "topics": [
                       "autonomous-driving",
                       "computer-vision",
@@ -1353,7 +1353,7 @@
                     "open_issues": 114,
                     "owner": "gaomingqi",
                     "repo": "Track-Anything",
-                    "stars": 7015,
+                    "stars": 7016,
                     "topics": [
                       "inpaint-anything",
                       "interactive-tracking",
@@ -1381,7 +1381,7 @@
                     "open_issues": 114,
                     "owner": "gaomingqi",
                     "repo": "Track-Anything",
-                    "stars": 7015,
+                    "stars": 7016,
                     "topics": [
                       "inpaint-anything",
                       "interactive-tracking",
@@ -1525,7 +1525,7 @@
                     "open_issues": 5,
                     "owner": "bytedance",
                     "repo": "Sa2VA",
-                    "stars": 1703,
+                    "stars": 1702,
                     "topics": [
                       "computer-vision",
                       "large-language-models",
@@ -1594,7 +1594,7 @@
                     "open_issues": 310,
                     "owner": "IDEA-Research",
                     "repo": "Grounded-Segment-Anything",
-                    "stars": 17795,
+                    "stars": 17797,
                     "topics": [
                       "3d-whole-body-pose-estimation",
                       "automatic-labeling-system",
@@ -1852,7 +1852,7 @@
                     "open_issues": 51,
                     "owner": "vietanhdev",
                     "repo": "anylabeling",
-                    "stars": 3533,
+                    "stars": 3534,
                     "topics": [
                       "auto-labeling",
                       "computer-vision",
@@ -1939,7 +1939,7 @@
                     "open_issues": 24,
                     "owner": "anuragxel",
                     "repo": "salt",
-                    "stars": 1049,
+                    "stars": 1048,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:42:58.421Z"
@@ -2038,7 +2038,7 @@
                     "open_issues": 33,
                     "owner": "NVIDIA-AI-IOT",
                     "repo": "nanosam",
-                    "stars": 927,
+                    "stars": 929,
                     "topics": [
                       "jetson-orin",
                       "jetson-orin-nano",
@@ -2200,7 +2200,7 @@
                     "open_issues": 1,
                     "owner": "amine0110",
                     "repo": "SAM-Medical-Imaging",
-                    "stars": 119,
+                    "stars": 118,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:42:58.421Z"
@@ -2362,7 +2362,7 @@
                     "open_issues": 45,
                     "owner": "sail-sg",
                     "repo": "EditAnything",
-                    "stars": 3420,
+                    "stars": 3421,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:42:58.421Z"
@@ -2555,7 +2555,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-25T01:07:21.127Z",
+    "last_updated": "2026-11-26T00:42:14.065Z",
     "original_repository_info": {
       "archived": false,
       "description": "Tracking and collecting papers/projects/others related to Segment Anything.",
