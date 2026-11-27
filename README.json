@@ -21,7 +21,7 @@
                 "open_issues": 274,
                 "owner": "openai",
                 "repo": "CLIP",
-                "stars": 34660,
+                "stars": 34670,
                 "topics": [
                   "deep-learning",
                   "machine-learning"
@@ -121,7 +121,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2024-08-12T08:52:02Z",
-                "open_issues": 326,
+                "open_issues": 325,
                 "owner": "IDEA-Research",
                 "repo": "GroundingDINO",
                 "stars": 10776,
@@ -151,7 +151,7 @@
                 "open_issues": 598,
                 "owner": "facebookresearch",
                 "repo": "segment-anything",
-                "stars": 55180,
+                "stars": 55183,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:42:58.421Z"
@@ -222,7 +222,7 @@
                 "open_issues": 491,
                 "owner": "facebookresearch",
                 "repo": "sam2",
-                "stars": 20237,
+                "stars": 20249,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:42:58.421Z"
@@ -434,7 +434,7 @@
                     "open_issues": 147,
                     "owner": "CASIA-LMC-Lab",
                     "repo": "FastSAM",
-                    "stars": 8447,
+                    "stars": 8448,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:42:58.421Z"
@@ -455,7 +455,7 @@
                     "open_issues": 119,
                     "owner": "ChaoningZhang",
                     "repo": "MobileSAM",
-                    "stars": 5928,
+                    "stars": 5931,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:42:58.421Z"
@@ -544,7 +544,7 @@
                     "open_issues": 54,
                     "owner": "yformer",
                     "repo": "EfficientSAM",
-                    "stars": 2503,
+                    "stars": 2504,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:42:58.421Z"
@@ -680,7 +680,7 @@
                     "open_issues": 66,
                     "owner": "tianrun-chen",
                     "repo": "SAM-Adapter-PyTorch",
-                    "stars": 1558,
+                    "stars": 1559,
                     "topics": [
                       "2d-segmentation",
                       "adapter",
@@ -832,11 +832,11 @@
                     "id": 635751761,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-11-25T22:41:22Z",
-                    "open_issues": 85,
+                    "last_commit": "2026-11-26T14:41:20Z",
+                    "open_issues": 89,
                     "owner": "computational-cell-analytics",
                     "repo": "micro-sam",
-                    "stars": 783,
+                    "stars": 784,
                     "topics": [
                       "annotation",
                       "automatic-segmentation",
@@ -1030,7 +1030,7 @@
                     "open_issues": 10,
                     "owner": "SHI-Labs",
                     "repo": "Matting-Anything",
-                    "stars": 722,
+                    "stars": 723,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:42:58.421Z"
@@ -1353,7 +1353,7 @@
                     "open_issues": 114,
                     "owner": "gaomingqi",
                     "repo": "Track-Anything",
-                    "stars": 7016,
+                    "stars": 7015,
                     "topics": [
                       "inpaint-anything",
                       "interactive-tracking",
@@ -1381,7 +1381,7 @@
                     "open_issues": 114,
                     "owner": "gaomingqi",
                     "repo": "Track-Anything",
-                    "stars": 7016,
+                    "stars": 7015,
                     "topics": [
                       "inpaint-anything",
                       "interactive-tracking",
@@ -1409,7 +1409,7 @@
                     "open_issues": 41,
                     "owner": "z-x-yang",
                     "repo": "Segment-and-Track-Anything",
-                    "stars": 3148,
+                    "stars": 3147,
                     "topics": [
                       "interactive-segmentation",
                       "segment-anything",
@@ -1594,7 +1594,7 @@
                     "open_issues": 310,
                     "owner": "IDEA-Research",
                     "repo": "Grounded-Segment-Anything",
-                    "stars": 17797,
+                    "stars": 17799,
                     "topics": [
                       "3d-whole-body-pose-estimation",
                       "automatic-labeling-system",
@@ -1624,7 +1624,7 @@
                     "open_issues": 12,
                     "owner": "caoyunkang",
                     "repo": "Segment-Any-Anomaly",
-                    "stars": 838,
+                    "stars": 837,
                     "topics": [
                       "anomaly-detection",
                       "foundation",
@@ -1670,7 +1670,7 @@
                     "open_issues": 24,
                     "owner": "kevmo314",
                     "repo": "magic-copy",
-                    "stars": 2448,
+                    "stars": 2447,
                     "topics": [
                       "chrome-extension",
                       "computer-vision",
@@ -2145,7 +2145,7 @@
                     "open_issues": 41,
                     "owner": "z-x-yang",
                     "repo": "Segment-and-Track-Anything",
-                    "stars": 3148,
+                    "stars": 3147,
                     "topics": [
                       "interactive-segmentation",
                       "segment-anything",
@@ -2555,7 +2555,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-26T00:42:14.065Z",
+    "last_updated": "2026-11-27T00:50:08.361Z",
     "original_repository_info": {
       "archived": false,
       "description": "Tracking and collecting papers/projects/others related to Segment Anything.",
@@ -2567,7 +2567,7 @@
       "open_issues": 1,
       "owner": "Hedlen",
       "repo": "awesome-segment-anything",
-      "stars": 1696,
+      "stars": 1697,
       "topics": [
         "application",
         "awesome-list",
